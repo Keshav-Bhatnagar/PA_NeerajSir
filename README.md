@@ -16,5 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0054-spiral-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
