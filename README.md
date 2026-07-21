@@ -4,9 +4,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0442-find-all-duplicates-in-an-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0442-find-all-duplicates-in-an-array) |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0003-longest-substring-without-repeating-characters) | HashSet
+| [0442-find-all-duplicates-in-an-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0442-find-all-duplicates-in-an-array) | IndexMarking
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0448-find-all-numbers-disappeared-in-an-array) | IndexMarking
 ## String
 |  |
 | ------- |
