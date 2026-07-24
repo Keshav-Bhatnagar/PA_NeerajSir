@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0209-minimum-size-subarray-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0704-binary-search](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Matrix
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
