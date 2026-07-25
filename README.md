@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0118-pascals-triangle) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
