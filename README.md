@@ -65,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0088-merge-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
