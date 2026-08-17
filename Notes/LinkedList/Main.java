@@ -11,14 +11,15 @@ class Node {
 }
 class Main {
    
-    public static boolean SearchTarget(Node root ,int target) {
-        int count =0;
-        if(root == null ) return false;
-        while(root!=null) {
-           if(root.data==target)return true;
-            root = root.next;
+    public static int Middle(Node root) {
+        if(root == null ) return 0;
+        Node slow=root;
+        Node fast=root;
+        while(fast!=null && fast.next!=null) {
+           slow=slow.next;
+           fast = fast.next.next;
         }
-        return false;
+        return slow.data;
     }
 
     public static void main(String[] args) {
@@ -28,7 +29,7 @@ class Main {
             temp.next = new Node(i);
             temp=temp.next;
         }
-        System.out.print(SearchTarget(head,20));
+        System.out.print(Middle(head));
 
 
     }
