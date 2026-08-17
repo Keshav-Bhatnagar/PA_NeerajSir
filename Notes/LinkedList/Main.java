@@ -10,22 +10,25 @@ class Node {
     }
 }
 class Main {
-    public static void Print(Node root) {
-        if(root == null ) return ;
+   
+    public static boolean SearchTarget(Node root ,int target) {
+        int count =0;
+        if(root == null ) return false;
         while(root!=null) {
-            System.out.print(root.data +" ");
+           if(root.data==target)return true;
             root = root.next;
         }
+        return false;
     }
 
     public static void main(String[] args) {
-        Node head = new Node(5);
+        Node head = new Node(9);
         Node temp = head;
-        for(int i=4;i>=0;i--) {
+        for(int i=8;i>=0;i--) {
             temp.next = new Node(i);
             temp=temp.next;
         }
-        Print(head);
+        System.out.print(SearchTarget(head,20));
 
 
     }
