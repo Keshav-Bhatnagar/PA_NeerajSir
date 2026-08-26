@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0118-pascals-triangle) |
 ## Database
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0401-binary-watch) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
