@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0003-longest-substring-without-repeating-characters) HashSet | 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0442-find-all-duplicates-in-an-array) IndexMarking | 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0448-find-all-numbers-disappeared-in-an-array) IndexMarking|
+| [2418-sort-the-people](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/2418-sort-the-people) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2418-sort-the-people](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/2418-sort-the-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2418-sort-the-people](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/2418-sort-the-people) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2418-sort-the-people](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/2418-sort-the-people) |
 ## Binary Search
 |  |
 | ------- |
