@@ -15,10 +15,10 @@ public class Josephus{
     Node head = null;
     Node tail = null;
 
-    for(int i = 0; i < n; i++){
+    for (int i = 0; i < n; i++){
       Node newNode = new Node(i+1);
 
-      if(head == null){
+      if (head == null){
         head = newNode;
         tail = newNode;
       }
@@ -36,11 +36,11 @@ public class Josephus{
 
     Node prev = head;
     Node curr = head;
-    while(prev.next != head){
+    while (prev.next != head){
       prev = prev.next;
     }
-    while(curr.next != curr){
-      for(int i = 1; i < k; i++){
+    while (curr.next != curr){
+      for (int i = 1; i < k; i++){
         prev = curr;
         curr = curr.next;
       }

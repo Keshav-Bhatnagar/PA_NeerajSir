@@ -1,106 +1,125 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0003-longest-substring-without-repeating-characters) HashSet | 
-| [0442-find-all-duplicates-in-an-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0442-find-all-duplicates-in-an-array) IndexMarking | 
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0448-find-all-numbers-disappeared-in-an-array) IndexMarking|
-| [2418-sort-the-people](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/2418-sort-the-people) |
-| [3718-smallest-missing-multiple-of-k](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/3718-smallest-missing-multiple-of-k) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0003-longest-substring-without-repeating-characters) |
-| [2418-sort-the-people](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/2418-sort-the-people) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0209-minimum-size-subarray-sum](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0209-minimum-size-subarray-sum) |
+# LeetCode Solutions
+
+A collection of LeetCode questions to ace the coding interview!
+
 ## Array
-|  |
-| ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0033-search-in-rotated-sorted-array) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0039-combination-sum](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0039-combination-sum) |
-| [0040-combination-sum-ii](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0040-combination-sum-ii) |
-| [0054-spiral-matrix](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0054-spiral-matrix) |
-| [0064-minimum-path-sum](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0064-minimum-path-sum) |
-| [0088-merge-sorted-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0088-merge-sorted-array) |
-| [0118-pascals-triangle](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0118-pascals-triangle) |
-| [0209-minimum-size-subarray-sum](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0209-minimum-size-subarray-sum) |
-| [0442-find-all-duplicates-in-an-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0442-find-all-duplicates-in-an-array) |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-| [0704-binary-search](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0704-binary-search) |
-| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/1431-kids-with-the-greatest-number-of-candies) |
-| [2418-sort-the-people](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/2418-sort-the-people) |
-| [3718-smallest-missing-multiple-of-k](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/3718-smallest-missing-multiple-of-k) |
-## Matrix
-|  |
-| ------- |
-| [0054-spiral-matrix](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0054-spiral-matrix) |
-| [0064-minimum-path-sum](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0064-minimum-path-sum) |
-## Simulation
-|  |
-| ------- |
-| [0054-spiral-matrix](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0054-spiral-matrix) |
-## Sorting
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0088-merge-sorted-array) |
-| [0442-find-all-duplicates-in-an-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0442-find-all-duplicates-in-an-array) |
-| [2418-sort-the-people](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/2418-sort-the-people) |
-## Binary Search
-|  |
-| ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0033-search-in-rotated-sorted-array) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0209-minimum-size-subarray-sum](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0209-minimum-size-subarray-sum) |
-| [0704-binary-search](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0704-binary-search) |
-## Prefix Sum
-|  |
-| ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0209-minimum-size-subarray-sum) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0062-unique-paths](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0062-unique-paths) |
-| [0064-minimum-path-sum](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0064-minimum-path-sum) |
-| [0118-pascals-triangle](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0118-pascals-triangle) |
-## Database
-|  |
-| ------- |
-| [1757-recyclable-and-low-fat-products](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/1757-recyclable-and-low-fat-products) |
-## Two Pointers
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0088-merge-sorted-array) |
+| Problem | Solution |
+| ------- | -------- |
+| 0033 - SearchInRotatedSortedArray | [Solution](Topics/Array/SearchInRotatedSortedArray) |
+| 0034 - FindFirstAndLastPositionOfElementInSortedArray | [Solution](Topics/Array/FindFirstAndLastPositionOfElementInSortedArray) |
+| 0039 - CombinationSum | [Solution](Topics/Array/CombinationSum) |
+| 0040 - CombinationSumIi | [Solution](Topics/Array/CombinationSumIi) |
+| 0054 - SpiralMatrix | [Solution](Topics/Array/SpiralMatrix) |
+| 0064 - MinimumPathSum | [Solution](Topics/Array/MinimumPathSum) |
+| 0088 - MergeSortedArray | [Solution](Topics/Array/MergeSortedArray) |
+| 0118 - PascalsTriangle | [Solution](Topics/Array/PascalsTriangle) |
+| 0209 - MinimumSizeSubarraySum | [Solution](Topics/SlidingWindow/MinimumSizeSubarraySum) |
+| 0442 - FindAllDuplicatesInAnArray | [Solution](Topics/HashTable/FindAllDuplicatesInAnArray) |
+| 0448 - FindAllNumbersDisappearedInAnArray | [Solution](Topics/HashTable/FindAllNumbersDisappearedInAnArray) |
+| 0704 - BinarySearch | [Solution](Topics/Array/BinarySearch) |
+| 1431 - KidsWithTheGreatestNumberOfCandies | [Solution](Topics/Array/KidsWithTheGreatestNumberOfCandies) |
+| 2418 - SortThePeople | [Solution](Topics/HashTable/SortThePeople) |
+| 3718 - SmallestMissingMultipleOfK | [Solution](Topics/HashTable/SmallestMissingMultipleOfK) |
+
 ## Backtracking
-|  |
-| ------- |
-| [0039-combination-sum](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0039-combination-sum) |
-| [0040-combination-sum-ii](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0040-combination-sum-ii) |
-| [0401-binary-watch](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0401-binary-watch) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0401-binary-watch](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0401-binary-watch) |
-## Math
-|  |
-| ------- |
-| [0062-unique-paths](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0062-unique-paths) |
+| Problem | Solution |
+| ------- | -------- |
+| Backtracking | [Solution](Topics/Backtracking/Backtracking) |
+| 0039 - CombinationSum | [Solution](Topics/Array/CombinationSum) |
+| 0040 - CombinationSumIi | [Solution](Topics/Array/CombinationSumIi) |
+| 0401 - BinaryWatch | [Solution](Topics/Backtracking/BinaryWatch) |
+
+## BinarySearch
+| Problem | Solution |
+| ------- | -------- |
+| 0033 - SearchInRotatedSortedArray | [Solution](Topics/Array/SearchInRotatedSortedArray) |
+| 0034 - FindFirstAndLastPositionOfElementInSortedArray | [Solution](Topics/Array/FindFirstAndLastPositionOfElementInSortedArray) |
+| 0209 - MinimumSizeSubarraySum | [Solution](Topics/SlidingWindow/MinimumSizeSubarraySum) |
+| 0704 - BinarySearch | [Solution](Topics/Array/BinarySearch) |
+
+## BitManipulation
+| Problem | Solution |
+| ------- | -------- |
+| 0401 - BinaryWatch | [Solution](Topics/Backtracking/BinaryWatch) |
+
 ## Combinatorics
-|  |
-| ------- |
-| [0062-unique-paths](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0062-unique-paths) |
-## Linked List
-|  |
-| ------- |
-| [0025-reverse-nodes-in-k-group](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0025-reverse-nodes-in-k-group) |
+| Problem | Solution |
+| ------- | -------- |
+| 0062 - UniquePaths | [Solution](Topics/DynamicProgramming/UniquePaths) |
+
+## DynamicProgramming
+| Problem | Solution |
+| ------- | -------- |
+| 0062 - UniquePaths | [Solution](Topics/DynamicProgramming/UniquePaths) |
+| 0064 - MinimumPathSum | [Solution](Topics/Array/MinimumPathSum) |
+| 0118 - PascalsTriangle | [Solution](Topics/Array/PascalsTriangle) |
+
+## HashTable
+| Problem | Solution |
+| ------- | -------- |
+| 0003 - LongestSubstringWithoutRepeatingCharacters | [Solution](Topics/HashTable/LongestSubstringWithoutRepeatingCharacters) |
+| 0442 - FindAllDuplicatesInAnArray | [Solution](Topics/HashTable/FindAllDuplicatesInAnArray) |
+| 0448 - FindAllNumbersDisappearedInAnArray | [Solution](Topics/HashTable/FindAllNumbersDisappearedInAnArray) |
+| 2418 - SortThePeople | [Solution](Topics/HashTable/SortThePeople) |
+| 3718 - SmallestMissingMultipleOfK | [Solution](Topics/HashTable/SmallestMissingMultipleOfK) |
+
+## LinkedList
+| Problem | Solution |
+| ------- | -------- |
+| 0025 - ReverseNodesInKGroup | [Solution](Topics/LinkedList/ReverseNodesInKGroup) |
+
+## Math
+| Problem | Solution |
+| ------- | -------- |
+| 0062 - UniquePaths | [Solution](Topics/DynamicProgramming/UniquePaths) |
+
+## Matrix
+| Problem | Solution |
+| ------- | -------- |
+| 0054 - SpiralMatrix | [Solution](Topics/Array/SpiralMatrix) |
+| 0064 - MinimumPathSum | [Solution](Topics/Array/MinimumPathSum) |
+
+## PrefixSum
+| Problem | Solution |
+| ------- | -------- |
+| 0209 - MinimumSizeSubarraySum | [Solution](Topics/SlidingWindow/MinimumSizeSubarraySum) |
+
 ## Recursion
-|  |
-| ------- |
-| [0025-reverse-nodes-in-k-group](https://github.com/Keshav-Bhatnagar/PA_NeerajSir/tree/master/0025-reverse-nodes-in-k-group) |
-<!---LeetCode Topics End-->
+| Problem | Solution |
+| ------- | -------- |
+| 0025 - ReverseNodesInKGroup | [Solution](Topics/LinkedList/ReverseNodesInKGroup) |
+
+## Simulation
+| Problem | Solution |
+| ------- | -------- |
+| 0054 - SpiralMatrix | [Solution](Topics/Array/SpiralMatrix) |
+
+## SlidingWindow
+| Problem | Solution |
+| ------- | -------- |
+| 0003 - LongestSubstringWithoutRepeatingCharacters | [Solution](Topics/HashTable/LongestSubstringWithoutRepeatingCharacters) |
+| 0209 - MinimumSizeSubarraySum | [Solution](Topics/SlidingWindow/MinimumSizeSubarraySum) |
+
+## Sorting
+| Problem | Solution |
+| ------- | -------- |
+| 0088 - MergeSortedArray | [Solution](Topics/Array/MergeSortedArray) |
+| 0442 - FindAllDuplicatesInAnArray | [Solution](Topics/HashTable/FindAllDuplicatesInAnArray) |
+| 2418 - SortThePeople | [Solution](Topics/HashTable/SortThePeople) |
+
+## String
+| Problem | Solution |
+| ------- | -------- |
+| 0003 - LongestSubstringWithoutRepeatingCharacters | [Solution](Topics/HashTable/LongestSubstringWithoutRepeatingCharacters) |
+| 2418 - SortThePeople | [Solution](Topics/HashTable/SortThePeople) |
+
+## TwoPointers
+| Problem | Solution |
+| ------- | -------- |
+| 0088 - MergeSortedArray | [Solution](Topics/Array/MergeSortedArray) |
+
+## Uncategorized
+| Problem | Solution |
+| ------- | -------- |
+| 1456 - MaximumNumberOfVowelsInASubstringOfGivenLength | [Solution](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) |
+| 3302 - FindTheLexicographicallySmallestValidSequence | [Solution](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) |

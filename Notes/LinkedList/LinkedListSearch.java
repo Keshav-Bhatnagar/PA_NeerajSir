@@ -12,8 +12,8 @@ class LinkedListSearch {
 
     public static boolean search(Node head, int target) {
         Node temp = head;
-        while(temp != null) {
-            if(temp.data == target) {
+        while (temp != null) {
+            if (temp.data == target) {
                 return true;
             }
             temp = temp.next;
@@ -28,7 +28,7 @@ class LinkedListSearch {
         head.next.next.next = new Node(40);
 
         int target = 300;
-        if(search(head, target)) {
+        if (search(head, target)) {
             System.out.println("Found");
         } else {
             System.out.println("Not Found");

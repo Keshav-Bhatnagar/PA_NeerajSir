@@ -13,7 +13,7 @@ class LinkedListCount {
     public static int countNodes(Node head) {
         int count = 0;
         Node temp = head;
-        while(temp != null) {
+        while (temp != null) {
             count++;
             temp = temp.next;
         }
