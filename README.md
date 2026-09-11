@@ -131,3 +131,9 @@ A collection of LeetCode questions to ace the coding interview!
 | :--- | :---: | :---: |
 | [Linked List Cycle](Topics/LeetCode/LinkedListCycle) | Easy | java |
 | [Partition List](Topics/LeetCode/PartitionList) | Medium | java |
+
+### Array
+
+| Problem | Difficulty | Language |
+| :--- | :---: | :---: |
+| [Subsets II](Topics/Array/SubsetsII) | Medium | java |
