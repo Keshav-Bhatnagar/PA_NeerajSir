@@ -4,7 +4,7 @@
   
   <p><b>A highly organized, auto-syncing collection of my LeetCode solutions to ace the coding interview!</b></p>
 
-  [![Problems Solved](https://img.shields.io/badge/Problems%20Solved-<!-- TOTAL_SOLVED -->25<!-- TOTAL_SOLVED_END -->-FFA116?style=plastic&logo=leetcode&logoColor=black)](#)
+  [![Problems Solved](https://img.shields.io/badge/Problems%20Solved-<!-- TOTAL_SOLVED -->57<!-- TOTAL_SOLVED_END -->-FFA116?style=plastic&logo=leetcode&logoColor=black)](#)
   [![Java](https://img.shields.io/badge/Language-Java-E34F26?style=plastic&logo=java&logoColor=white)](#)
   [![Automated](https://img.shields.io/badge/Auto_Synced-AI_Code_Sync-8A2BE2?style=plastic&logo=github)](#)
   [![Data Structures](https://img.shields.io/badge/Data_Structures-%26_Algorithms-00599C?style=plastic)](#)
