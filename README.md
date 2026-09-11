@@ -123,3 +123,10 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | -------- |
 | 1456 - MaximumNumberOfVowelsInASubstringOfGivenLength | [Solution](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) |
 | 3302 - FindTheLexicographicallySmallestValidSequence | [Solution](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) |
+
+
+## 🚀 LeetCode Solutions
+
+| Problem | Difficulty | Language |
+| :--- | :---: | :---: |
+| [Linked List Cycle](Topics/LeetCode/LinkedListCycle) | Easy | java |
