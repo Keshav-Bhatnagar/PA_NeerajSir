@@ -1,6 +1,19 @@
-# LeetCode Solutions
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="70" alt="LeetCode Logo"/>
+  <h1>🚀 My LeetCode Journey</h1>
+  
+  <p><b>A highly organized, auto-syncing collection of my LeetCode solutions to ace the coding interview!</b></p>
 
-A collection of LeetCode questions to ace the coding interview!
+  [![Java](https://img.shields.io/badge/Language-Java-E34F26?style=for-the-badge&logo=java&logoColor=white)](https://java.com/)
+  [![Automated](https://img.shields.io/badge/Auto_Synced-AI_Code_Sync-8A2BE2?style=for-the-badge&logo=github)](https://github.com/)
+  [![Data Structures](https://img.shields.io/badge/Data_Structures-%26_Algorithms-00599C?style=for-the-badge)](#)
+</div>
+
+<br/>
+
+> **Note:** These solutions are automatically pushed and categorized by my custom Chrome extension, complete with AI-generated approach explanations for each problem!
+
+---
 
 ## Array
 | Problem | Solution |
@@ -20,6 +33,10 @@ A collection of LeetCode questions to ace the coding interview!
 | 1431 - KidsWithTheGreatestNumberOfCandies | [Solution](Topics/Array/KidsWithTheGreatestNumberOfCandies) |
 | 2418 - SortThePeople | [Solution](Topics/HashTable/SortThePeople) |
 | 3718 - SmallestMissingMultipleOfK | [Solution](Topics/HashTable/SmallestMissingMultipleOfK) |
+| 0090 - SubsetsII | [Solution](Topics/Array/SubsetsII) |
+| 2094 - Finding3DigitEvenNumbers | [Solution](Topics/Array/Finding3DigitEvenNumbers) |
+| 0051 - NQueens | [Solution](Topics/Array/NQueens) |
+| 0037 - SudokuSolver | [Solution](Topics/Array/SudokuSolver) |
 
 ## Backtracking
 | Problem | Solution |
@@ -67,6 +84,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem | Solution |
 | ------- | -------- |
 | 0025 - ReverseNodesInKGroup | [Solution](Topics/LinkedList/ReverseNodesInKGroup) |
+| 0141 - LinkedListCycle | [Solution](Topics/LinkedList/LinkedListCycle) |
+| 0086 - PartitionList | [Solution](Topics/LinkedList/PartitionList) |
 
 ## Math
 | Problem | Solution |
@@ -123,20 +142,3 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | -------- |
 | 1456 - MaximumNumberOfVowelsInASubstringOfGivenLength | [Solution](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) |
 | 3302 - FindTheLexicographicallySmallestValidSequence | [Solution](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) |
-
-
-## 🚀 LeetCode Solutions
-
-| Problem | Difficulty | Language |
-| :--- | :---: | :---: |
-| [Linked List Cycle](Topics/LeetCode/LinkedListCycle) | Easy | java |
-| [Partition List](Topics/LeetCode/PartitionList) | Medium | java |
-
-### Array
-
-| Problem | Difficulty | Language |
-| :--- | :---: | :---: |
-| [Subsets II](Topics/Array/SubsetsII) | Medium | java |
-| [Finding 3-Digit Even Numbers](Topics/Array/Finding3DigitEvenNumbers) | Easy | java |
-| [N-Queens](Topics/Array/NQueens) | Hard | java |
-| [Sudoku Solver](Topics/Array/SudokuSolver) | Hard | java |
