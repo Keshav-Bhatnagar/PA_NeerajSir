@@ -58,6 +58,7 @@
 | Problem | Solution |
 | ------- | -------- |
 | 0401 - BinaryWatch | [Solution](Topics/Backtracking/BinaryWatch) |
+| 0476 - NumberComplement | [Solution](Topics/BitManipulation/NumberComplement) |
 
 ## Combinatorics
 | Problem | Solution |
