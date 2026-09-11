@@ -138,3 +138,4 @@ A collection of LeetCode questions to ace the coding interview!
 | :--- | :---: | :---: |
 | [Subsets II](Topics/Array/SubsetsII) | Medium | java |
 | [Finding 3-Digit Even Numbers](Topics/Array/Finding3DigitEvenNumbers) | Easy | java |
+| [N-Queens](Topics/Array/NQueens) | Hard | java |
