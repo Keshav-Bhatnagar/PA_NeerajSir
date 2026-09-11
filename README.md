@@ -140,3 +140,9 @@ A collection of LeetCode questions to ace the coding interview!
 | [Finding 3-Digit Even Numbers](Topics/Array/Finding3DigitEvenNumbers) | Easy | java |
 | [N-Queens](Topics/Array/NQueens) | Hard | java |
 | [Sudoku Solver](Topics/Array/SudokuSolver) | Hard | java |
+
+
+## Bit Manipulation
+| Problem | Solution |
+| ------- | -------- |
+| 0476 - NumberComplement | [Solution](Topics/BitManipulation/NumberComplement) |
