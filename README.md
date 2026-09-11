@@ -1,18 +1,25 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="70" alt="LeetCode Logo"/>
-  <h1>🚀 My LeetCode Journey</h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   
-  <p><b>A highly organized, auto-syncing collection of my LeetCode solutions to ace the coding interview!</b></p>
-
-  [![Problems Solved](https://img.shields.io/badge/Problems%20Solved-<!-- TOTAL_SOLVED -->57<!-- TOTAL_SOLVED_END -->-FFA116?style=plastic&logo=leetcode&logoColor=black)](#)
-  [![Java](https://img.shields.io/badge/Language-Java-E34F26?style=plastic&logo=java&logoColor=white)](#)
-  [![Automated](https://img.shields.io/badge/Auto_Synced-AI_Code_Sync-8A2BE2?style=plastic&logo=github)](#)
-  [![Data Structures](https://img.shields.io/badge/Data_Structures-%26_Algorithms-00599C?style=plastic)](#)
+  <h1>🌌 My LeetCode Universe 🌌</h1>
+  
+  <p>
+    <b>An automated, AI-powered repository of my LeetCode submissions.</b> <br/>
+    <i>Algorithms, Data Structures, and elegant solutions neatly organized by topic.</i>
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Problems_Solved-<!-- TOTAL_SOLVED -->57<!-- TOTAL_SOLVED_END -->-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Problems Solved" />
+    <img src="https://img.shields.io/badge/Language-Java-E34F26?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Synced_by-AI_Code_Sync-8A2BE2?style=for-the-badge&logo=github" alt="AI Sync" />
+  </p>
+  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 <br/>
 
-> **Note:** These solutions are automatically pushed and categorized by my custom Chrome extension, complete with AI-generated approach explanations for each problem!
+> 💡 **Fun Fact:** Every solution in this repository was seamlessly pushed by my custom Chrome Extension. The moment I hit "Submit" on LeetCode, it generates an AI-powered approach explanation and commits everything in the background!
 
 ---
 
