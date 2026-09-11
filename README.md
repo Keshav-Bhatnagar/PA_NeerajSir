@@ -1,10 +1,26 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
+  
+  <h1>🌌 My LeetCode Universe 🌌</h1>
+  
+  <p>
+    <b>An automated, AI-powered repository of my LeetCode submissions.</b> <br/>
+    <i>Algorithms, Data Structures, and elegant solutions neatly organized by topic.</i>
+  </p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Keshav-Bhatnagar-PA_NeerajSir&label=Repo%20Views&color=0e75b6&style=for-the-badge" alt="Repo Views" />
+    <img src="https://img.shields.io/badge/Problems_Solved-<!-- TOTAL_SOLVED -->57<!-- TOTAL_SOLVED_END -->-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Problems Solved" />
+    <img src="https://img.shields.io/badge/Language-Java-E34F26?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Synced_by-AI_Code_Sync-8A2BE2?style=for-the-badge&logo=github" alt="AI Sync" />
+  </p>
+  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 <br/>
 
-
+> 💡 **Fun Fact:** Every solution in this repository was seamlessly pushed by my custom Chrome Extension. The moment I hit "Submit" on LeetCode, it generates an AI-powered approach explanation and commits everything in the background!
 
 ---
 
