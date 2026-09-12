@@ -10,7 +10,7 @@
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=Keshav-Bhatnagar-PA_NeerajSir&label=Repo%20Views&color=0e75b6&style=for-the-badge" alt="Repo Views" />
-    <img src="https://img.shields.io/badge/Problems_Solved-<!-- TOTAL_SOLVED -->57<!-- TOTAL_SOLVED_END -->-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Problems Solved" />
+    <img src="https://img.shields.io/badge/Problems_Solved-<!-- TOTAL_SOLVED -->58<!-- TOTAL_SOLVED_END -->-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Problems Solved" />
     <img src="https://img.shields.io/badge/Language-Java-E34F26?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/Synced_by-AI_Code_Sync-8A2BE2?style=for-the-badge&logo=github" alt="AI Sync" />
   </p>
@@ -152,3 +152,9 @@
 | ------- | -------- |
 | 1456 - MaximumNumberOfVowelsInASubstringOfGivenLength | [Solution](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) |
 | 3302 - FindTheLexicographicallySmallestValidSequence | [Solution](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) |
+
+
+## Linked List
+| Problem | Solution |
+| ------- | -------- |
+| 0023 - MergekSortedLists | [Solution](Topics/LinkedList/MergekSortedLists) |
