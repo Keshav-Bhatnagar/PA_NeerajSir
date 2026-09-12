@@ -10,7 +10,7 @@
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=Keshav-Bhatnagar-PA_NeerajSir&label=Repo%20Views&color=0e75b6&style=for-the-badge" alt="Repo Views" />
-    <img src="https://img.shields.io/badge/Problems_Solved-<!-- TOTAL_SOLVED -->58<!-- TOTAL_SOLVED_END -->-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Problems Solved" />
+    <img src="https://img.shields.io/badge/Problems_Solved-<!-- TOTAL_SOLVED -->59<!-- TOTAL_SOLVED_END -->-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Problems Solved" />
     <img src="https://img.shields.io/badge/Language-Java-E34F26?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/Synced_by-AI_Code_Sync-8A2BE2?style=for-the-badge&logo=github" alt="AI Sync" />
   </p>
@@ -141,6 +141,8 @@
 | ------- | -------- |
 | 0003 - LongestSubstringWithoutRepeatingCharacters | [Solution](Topics/HashTable/LongestSubstringWithoutRepeatingCharacters) |
 | 2418 - SortThePeople | [Solution](Topics/HashTable/SortThePeople) |
+| 0482 - LicenseKeyFormatting | [Solution](Topics/String/LicenseKeyFormatting) |
+
 
 ## TwoPointers
 | Problem | Solution |
