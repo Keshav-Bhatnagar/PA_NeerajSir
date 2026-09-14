@@ -169,3 +169,4 @@
 | ------- | -------- |
 | 0155 - MinStack | [Solution](Topics/Stack/MinStack) |
 | 0739 - DailyTemperatures | Medium | [Solution](Topics/Stack/DailyTemperatures) |
+| [0739 - DailyTemperatures](Topics/Stack/DailyTemperatures) | Medium |
