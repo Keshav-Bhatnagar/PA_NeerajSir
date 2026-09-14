@@ -24,149 +24,147 @@
 
 ---
 
+
 ## Array
-| Problem | Solution |
-| ------- | -------- |
-| 0033 - SearchInRotatedSortedArray | [Solution](Topics/Array/SearchInRotatedSortedArray) |
-| 0034 - FindFirstAndLastPositionOfElementInSortedArray | [Solution](Topics/Array/FindFirstAndLastPositionOfElementInSortedArray) |
-| 0039 - CombinationSum | [Solution](Topics/Array/CombinationSum) |
-| 0040 - CombinationSumIi | [Solution](Topics/Array/CombinationSumIi) |
-| 0054 - SpiralMatrix | [Solution](Topics/Array/SpiralMatrix) |
-| 0064 - MinimumPathSum | [Solution](Topics/Array/MinimumPathSum) |
-| 0088 - MergeSortedArray | [Solution](Topics/Array/MergeSortedArray) |
-| 0118 - PascalsTriangle | [Solution](Topics/Array/PascalsTriangle) |
-| 0209 - MinimumSizeSubarraySum | [Solution](Topics/SlidingWindow/MinimumSizeSubarraySum) |
-| 0442 - FindAllDuplicatesInAnArray | [Solution](Topics/HashTable/FindAllDuplicatesInAnArray) |
-| 0448 - FindAllNumbersDisappearedInAnArray | [Solution](Topics/HashTable/FindAllNumbersDisappearedInAnArray) |
-| 0704 - BinarySearch | [Solution](Topics/Array/BinarySearch) |
-| 1431 - KidsWithTheGreatestNumberOfCandies | [Solution](Topics/Array/KidsWithTheGreatestNumberOfCandies) |
-| 2418 - SortThePeople | [Solution](Topics/HashTable/SortThePeople) |
-| 3718 - SmallestMissingMultipleOfK | [Solution](Topics/HashTable/SmallestMissingMultipleOfK) |
-| 0090 - SubsetsII | [Solution](Topics/Array/SubsetsII) |
-| 2094 - Finding3DigitEvenNumbers | [Solution](Topics/Array/Finding3DigitEvenNumbers) |
-| 0051 - NQueens | [Solution](Topics/Array/NQueens) |
-| 0037 - SudokuSolver | [Solution](Topics/Array/SudokuSolver) |
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0033 - SearchInRotatedSortedArray](Topics/Array/SearchInRotatedSortedArray) | N/A |
+| [0034 - FindFirstAndLastPositionOfElementInSortedArray](Topics/Array/FindFirstAndLastPositionOfElementInSortedArray) | N/A |
+| [0039 - CombinationSum](Topics/Array/CombinationSum) | N/A |
+| [0040 - CombinationSumIi](Topics/Array/CombinationSumIi) | N/A |
+| [0054 - SpiralMatrix](Topics/Array/SpiralMatrix) | N/A |
+| [0064 - MinimumPathSum](Topics/Array/MinimumPathSum) | N/A |
+| [0088 - MergeSortedArray](Topics/Array/MergeSortedArray) | N/A |
+| [0118 - PascalsTriangle](Topics/Array/PascalsTriangle) | N/A |
+| [0209 - MinimumSizeSubarraySum](Topics/SlidingWindow/MinimumSizeSubarraySum) | N/A |
+| [0442 - FindAllDuplicatesInAnArray](Topics/HashTable/FindAllDuplicatesInAnArray) | N/A |
+| [0448 - FindAllNumbersDisappearedInAnArray](Topics/HashTable/FindAllNumbersDisappearedInAnArray) | N/A |
+| [0704 - BinarySearch](Topics/Array/BinarySearch) | N/A |
+| [1431 - KidsWithTheGreatestNumberOfCandies](Topics/Array/KidsWithTheGreatestNumberOfCandies) | N/A |
+| [2418 - SortThePeople](Topics/HashTable/SortThePeople) | N/A |
+| [3718 - SmallestMissingMultipleOfK](Topics/HashTable/SmallestMissingMultipleOfK) | N/A |
+| [0090 - SubsetsII](Topics/Array/SubsetsII) | N/A |
+| [2094 - Finding3DigitEvenNumbers](Topics/Array/Finding3DigitEvenNumbers) | N/A |
+| [0051 - NQueens](Topics/Array/NQueens) | N/A |
+| [0037 - SudokuSolver](Topics/Array/SudokuSolver) | N/A |
 
 ## Backtracking
-| Problem | Solution |
-| ------- | -------- |
-| Backtracking | [Solution](Topics/Backtracking/Backtracking) |
-| 0039 - CombinationSum | [Solution](Topics/Array/CombinationSum) |
-| 0040 - CombinationSumIi | [Solution](Topics/Array/CombinationSumIi) |
-| 0401 - BinaryWatch | [Solution](Topics/Backtracking/BinaryWatch) |
+| Problem | Difficulty |
+| ------- | ---------- |
+| [Backtracking](Topics/Backtracking/Backtracking) | N/A |
+| [0039 - CombinationSum](Topics/Array/CombinationSum) | N/A |
+| [0040 - CombinationSumIi](Topics/Array/CombinationSumIi) | N/A |
+| [0401 - BinaryWatch](Topics/Backtracking/BinaryWatch) | N/A |
 
 ## BinarySearch
-| Problem | Solution |
-| ------- | -------- |
-| 0033 - SearchInRotatedSortedArray | [Solution](Topics/Array/SearchInRotatedSortedArray) |
-| 0034 - FindFirstAndLastPositionOfElementInSortedArray | [Solution](Topics/Array/FindFirstAndLastPositionOfElementInSortedArray) |
-| 0209 - MinimumSizeSubarraySum | [Solution](Topics/SlidingWindow/MinimumSizeSubarraySum) |
-| 0704 - BinarySearch | [Solution](Topics/Array/BinarySearch) |
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0033 - SearchInRotatedSortedArray](Topics/Array/SearchInRotatedSortedArray) | N/A |
+| [0034 - FindFirstAndLastPositionOfElementInSortedArray](Topics/Array/FindFirstAndLastPositionOfElementInSortedArray) | N/A |
+| [0209 - MinimumSizeSubarraySum](Topics/SlidingWindow/MinimumSizeSubarraySum) | N/A |
+| [0704 - BinarySearch](Topics/Array/BinarySearch) | N/A |
 
 ## BitManipulation
-| Problem | Solution |
-| ------- | -------- |
-| 0401 - BinaryWatch | [Solution](Topics/Backtracking/BinaryWatch) |
-| 0476 - NumberComplement | [Solution](Topics/BitManipulation/NumberComplement) |
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0401 - BinaryWatch](Topics/Backtracking/BinaryWatch) | N/A |
+| [0476 - NumberComplement](Topics/BitManipulation/NumberComplement) | N/A |
 
 ## Combinatorics
-| Problem | Solution |
-| ------- | -------- |
-| 0062 - UniquePaths | [Solution](Topics/DynamicProgramming/UniquePaths) |
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0062 - UniquePaths](Topics/DynamicProgramming/UniquePaths) | N/A |
 
 ## DynamicProgramming
-| Problem | Solution |
-| ------- | -------- |
-| 0062 - UniquePaths | [Solution](Topics/DynamicProgramming/UniquePaths) |
-| 0064 - MinimumPathSum | [Solution](Topics/Array/MinimumPathSum) |
-| 0118 - PascalsTriangle | [Solution](Topics/Array/PascalsTriangle) |
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0062 - UniquePaths](Topics/DynamicProgramming/UniquePaths) | N/A |
+| [0064 - MinimumPathSum](Topics/Array/MinimumPathSum) | N/A |
+| [0118 - PascalsTriangle](Topics/Array/PascalsTriangle) | N/A |
 
 ## HashTable
-| Problem | Solution |
-| ------- | -------- |
-| 0003 - LongestSubstringWithoutRepeatingCharacters | [Solution](Topics/HashTable/LongestSubstringWithoutRepeatingCharacters) |
-| 0442 - FindAllDuplicatesInAnArray | [Solution](Topics/HashTable/FindAllDuplicatesInAnArray) |
-| 0448 - FindAllNumbersDisappearedInAnArray | [Solution](Topics/HashTable/FindAllNumbersDisappearedInAnArray) |
-| 2418 - SortThePeople | [Solution](Topics/HashTable/SortThePeople) |
-| 3718 - SmallestMissingMultipleOfK | [Solution](Topics/HashTable/SmallestMissingMultipleOfK) |
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0003 - LongestSubstringWithoutRepeatingCharacters](Topics/HashTable/LongestSubstringWithoutRepeatingCharacters) | N/A |
+| [0442 - FindAllDuplicatesInAnArray](Topics/HashTable/FindAllDuplicatesInAnArray) | N/A |
+| [0448 - FindAllNumbersDisappearedInAnArray](Topics/HashTable/FindAllNumbersDisappearedInAnArray) | N/A |
+| [2418 - SortThePeople](Topics/HashTable/SortThePeople) | N/A |
+| [3718 - SmallestMissingMultipleOfK](Topics/HashTable/SmallestMissingMultipleOfK) | N/A |
 
 ## LinkedList
-| Problem | Solution |
-| ------- | -------- |
-| 0025 - ReverseNodesInKGroup | [Solution](Topics/LinkedList/ReverseNodesInKGroup) |
-| 0141 - LinkedListCycle | [Solution](Topics/LinkedList/LinkedListCycle) |
-| 0086 - PartitionList | [Solution](Topics/LinkedList/PartitionList) |
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0025 - ReverseNodesInKGroup](Topics/LinkedList/ReverseNodesInKGroup) | N/A |
+| [0141 - LinkedListCycle](Topics/LinkedList/LinkedListCycle) | N/A |
+| [0086 - PartitionList](Topics/LinkedList/PartitionList) | N/A |
 
 ## Math
-| Problem | Solution |
-| ------- | -------- |
-| 0062 - UniquePaths | [Solution](Topics/DynamicProgramming/UniquePaths) |
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0062 - UniquePaths](Topics/DynamicProgramming/UniquePaths) | N/A |
 
 ## Matrix
-| Problem | Solution |
-| ------- | -------- |
-| 0054 - SpiralMatrix | [Solution](Topics/Array/SpiralMatrix) |
-| 0064 - MinimumPathSum | [Solution](Topics/Array/MinimumPathSum) |
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0054 - SpiralMatrix](Topics/Array/SpiralMatrix) | N/A |
+| [0064 - MinimumPathSum](Topics/Array/MinimumPathSum) | N/A |
 
 ## PrefixSum
-| Problem | Solution |
-| ------- | -------- |
-| 0209 - MinimumSizeSubarraySum | [Solution](Topics/SlidingWindow/MinimumSizeSubarraySum) |
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0209 - MinimumSizeSubarraySum](Topics/SlidingWindow/MinimumSizeSubarraySum) | N/A |
 
 ## Recursion
-| Problem | Solution |
-| ------- | -------- |
-| 0025 - ReverseNodesInKGroup | [Solution](Topics/LinkedList/ReverseNodesInKGroup) |
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0025 - ReverseNodesInKGroup](Topics/LinkedList/ReverseNodesInKGroup) | N/A |
 
 ## Simulation
-| Problem | Solution |
-| ------- | -------- |
-| 0054 - SpiralMatrix | [Solution](Topics/Array/SpiralMatrix) |
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0054 - SpiralMatrix](Topics/Array/SpiralMatrix) | N/A |
 
 ## SlidingWindow
-| Problem | Solution |
-| ------- | -------- |
-| 0003 - LongestSubstringWithoutRepeatingCharacters | [Solution](Topics/HashTable/LongestSubstringWithoutRepeatingCharacters) |
-| 0209 - MinimumSizeSubarraySum | [Solution](Topics/SlidingWindow/MinimumSizeSubarraySum) |
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0003 - LongestSubstringWithoutRepeatingCharacters](Topics/HashTable/LongestSubstringWithoutRepeatingCharacters) | N/A |
+| [0209 - MinimumSizeSubarraySum](Topics/SlidingWindow/MinimumSizeSubarraySum) | N/A |
 
 ## Sorting
-| Problem | Solution |
-| ------- | -------- |
-| 0088 - MergeSortedArray | [Solution](Topics/Array/MergeSortedArray) |
-| 0442 - FindAllDuplicatesInAnArray | [Solution](Topics/HashTable/FindAllDuplicatesInAnArray) |
-| 2418 - SortThePeople | [Solution](Topics/HashTable/SortThePeople) |
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0088 - MergeSortedArray](Topics/Array/MergeSortedArray) | N/A |
+| [0442 - FindAllDuplicatesInAnArray](Topics/HashTable/FindAllDuplicatesInAnArray) | N/A |
+| [2418 - SortThePeople](Topics/HashTable/SortThePeople) | N/A |
 
 ## String
-| Problem | Solution |
-| ------- | -------- |
-| 0003 - LongestSubstringWithoutRepeatingCharacters | [Solution](Topics/HashTable/LongestSubstringWithoutRepeatingCharacters) |
-| 2418 - SortThePeople | [Solution](Topics/HashTable/SortThePeople) |
-| 0482 - LicenseKeyFormatting | [Solution](Topics/String/LicenseKeyFormatting) |
-
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0003 - LongestSubstringWithoutRepeatingCharacters](Topics/HashTable/LongestSubstringWithoutRepeatingCharacters) | N/A |
+| [2418 - SortThePeople](Topics/HashTable/SortThePeople) | N/A |
+| [0482 - LicenseKeyFormatting](Topics/String/LicenseKeyFormatting) | N/A |
 
 ## TwoPointers
-| Problem | Solution |
-| ------- | -------- |
-| 0088 - MergeSortedArray | [Solution](Topics/Array/MergeSortedArray) |
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0088 - MergeSortedArray](Topics/Array/MergeSortedArray) | N/A |
 
 ## Uncategorized
-| Problem | Solution |
-| ------- | -------- |
-| 1456 - MaximumNumberOfVowelsInASubstringOfGivenLength | [Solution](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) |
-| 3302 - FindTheLexicographicallySmallestValidSequence | [Solution](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) |
-
+| Problem | Difficulty |
+| ------- | ---------- |
+| [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | N/A |
+| [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | N/A |
 
 ## Linked List
-| Problem | Solution |
-| ------- | -------- |
-| 0023 - MergekSortedLists | [Solution](Topics/LinkedList/MergekSortedLists) |
-| 0002 - AddTwoNumbers | [Solution](Topics/LinkedList/AddTwoNumbers) |
-
-
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0023 - MergekSortedLists](Topics/LinkedList/MergekSortedLists) | N/A |
+| [0002 - AddTwoNumbers](Topics/LinkedList/AddTwoNumbers) | N/A |
 
 ## Stack
-| Problem | Solution |
-| ------- | -------- |
-| 0155 - MinStack | [Solution](Topics/Stack/MinStack) |
-| 0739 - DailyTemperatures | Medium | [Solution](Topics/Stack/DailyTemperatures) |
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0155 - MinStack](Topics/Stack/MinStack) | N/A |
 | [0739 - DailyTemperatures](Topics/Stack/DailyTemperatures) | Medium |
+
+
