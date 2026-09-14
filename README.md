@@ -10,7 +10,7 @@
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=Keshav-Bhatnagar-PA_NeerajSir&label=Repo%20Views&color=0e75b6&style=for-the-badge" alt="Repo Views" />
-    <img src="https://img.shields.io/badge/Problems_Solved-<!-- TOTAL_SOLVED -->59<!-- TOTAL_SOLVED_END -->-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Problems Solved" />
+    <img src="https://img.shields.io/badge/Problems_Solved-<!-- TOTAL_SOLVED -->60<!-- TOTAL_SOLVED_END -->-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Problems Solved" />
     <img src="https://img.shields.io/badge/Language-Java-E34F26?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/Synced_by-AI_Code_Sync-8A2BE2?style=for-the-badge&logo=github" alt="AI Sync" />
   </p>
@@ -160,3 +160,9 @@
 | Problem | Solution |
 | ------- | -------- |
 | 0023 - MergekSortedLists | [Solution](Topics/LinkedList/MergekSortedLists) |
+
+
+## Stack
+| Problem | Solution |
+| ------- | -------- |
+| 0155 - MinStack | [Solution](Topics/Stack/MinStack) |
