@@ -86,6 +86,8 @@
 | Problem | Difficulty |
 | ------- | ---------- |
 | [0062 - UniquePaths](Topics/DynamicProgramming/UniquePaths) | Medium |
+| [0492 - ConstructtheRectangle](Topics/Math/ConstructtheRectangle) | Easy |
+
 
 ## Matrix
 | Problem | Difficulty |
