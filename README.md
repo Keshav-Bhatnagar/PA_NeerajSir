@@ -87,6 +87,8 @@
 | ------- | ---------- |
 | [0062 - UniquePaths](Topics/DynamicProgramming/UniquePaths) | Medium |
 | [0492 - ConstructtheRectangle](Topics/Math/ConstructtheRectangle) | Easy |
+| [0495 - TeemoAttacking](Topics/Math/TeemoAttacking) | Easy |
+
 
 
 ## Matrix
