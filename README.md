@@ -131,6 +131,8 @@
 | [0003 - LongestSubstringWithoutRepeatingCharacters](Topics/HashTable/LongestSubstringWithoutRepeatingCharacters) | Medium |
 | [2418 - SortThePeople](Topics/HashTable/SortThePeople) | Easy |
 | [0482 - LicenseKeyFormatting](Topics/String/LicenseKeyFormatting) | Easy |
+| [0541 - ReverseStringII](Topics/String/ReverseStringII) | Easy |
+
 
 ## TwoPointers
 | Problem | Difficulty |
