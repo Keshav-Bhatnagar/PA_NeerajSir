@@ -31,6 +31,8 @@
 | [2094 - Finding3DigitEvenNumbers](Topics/Array/Finding3DigitEvenNumbers) | Easy |
 | [0051 - NQueens](Topics/Array/NQueens) | Hard |
 | [0037 - SudokuSolver](Topics/Array/SudokuSolver) | Hard |
+| [0500 - KeyboardRow](Topics/Array/KeyboardRow) | Easy |
+
 
 ## Backtracking
 | Problem | Difficulty |
