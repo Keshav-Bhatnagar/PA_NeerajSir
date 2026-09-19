@@ -32,6 +32,8 @@
 | [0051 - NQueens](Topics/Array/NQueens) | Hard |
 | [0037 - SudokuSolver](Topics/Array/SudokuSolver) | Hard |
 | [0500 - KeyboardRow](Topics/Array/KeyboardRow) | Easy |
+| [1232 - CheckIfItIsaStraightLine](Topics/Array/CheckIfItIsaStraightLine) | Easy |
+
 
 
 ## Backtracking
