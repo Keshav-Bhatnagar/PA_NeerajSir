@@ -139,6 +139,8 @@
 | [0482 - LicenseKeyFormatting](Topics/String/LicenseKeyFormatting) | Easy |
 | [0541 - ReverseStringII](Topics/String/ReverseStringII) | Easy |
 | [0557 - ReverseWordsinaStringIII](Topics/String/ReverseWordsinaStringIII) | Easy |
+| [3498 - ReverseDegreeofaString](Topics/String/ReverseDegreeofaString) | Easy |
+
 
 
 
