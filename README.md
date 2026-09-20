@@ -33,6 +33,8 @@
 | [0037 - SudokuSolver](Topics/Array/SudokuSolver) | Hard |
 | [0500 - KeyboardRow](Topics/Array/KeyboardRow) | Easy |
 | [1232 - CheckIfItIsaStraightLine](Topics/Array/CheckIfItIsaStraightLine) | Easy |
+| [1260 - Shift2DGrid](Topics/Array/Shift2DGrid) | Easy |
+
 
 
 
