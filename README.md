@@ -126,3 +126,4 @@
 | [0150 - EvaluateReversePolishNotation](Topics/Stack/EvaluateReversePolishNotation) | Medium |
 | [0071 - SimplifyPath](Topics/Stack/SimplifyPath) | Medium |
 | [0394 - DecodeString](Topics/Stack/DecodeString) | Medium |
+| [0503 - NextGreaterElementII](Topics/Stack/NextGreaterElementII) | Medium |
