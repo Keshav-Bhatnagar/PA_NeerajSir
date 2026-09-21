@@ -168,5 +168,7 @@
 | ------- | ---------- |
 | [0155 - MinStack](Topics/Stack/MinStack) | Medium |
 | [0739 - DailyTemperatures](Topics/Stack/DailyTemperatures) | Medium |
+| [0150 - EvaluateReversePolishNotation](Topics/Stack/EvaluateReversePolishNotation) | Medium |
+
 
 
