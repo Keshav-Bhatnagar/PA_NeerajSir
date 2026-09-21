@@ -36,11 +36,6 @@
 | [0003 - LongestSubstringWithoutRepeatingCharacters](Topics/HashTable/LongestSubstringWithoutRepeatingCharacters) | Medium |
 | [0209 - MinimumSizeSubarraySum](Topics/SlidingWindow/MinimumSizeSubarraySum) | Medium |
 
-## PrefixSum
-| Problem | Difficulty |
-| ------- | ---------- |
-| [0209 - MinimumSizeSubarraySum](Topics/SlidingWindow/MinimumSizeSubarraySum) | Medium |
-
 ## BinarySearch
 | Problem | Difficulty |
 | ------- | ---------- |
