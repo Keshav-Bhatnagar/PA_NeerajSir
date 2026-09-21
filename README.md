@@ -170,6 +170,8 @@
 | [0739 - DailyTemperatures](Topics/Stack/DailyTemperatures) | Medium |
 | [0150 - EvaluateReversePolishNotation](Topics/Stack/EvaluateReversePolishNotation) | Medium |
 | [0071 - SimplifyPath](Topics/Stack/SimplifyPath) | Medium |
+| [0394 - DecodeString](Topics/Stack/DecodeString) | Medium |
+
 
 
 
