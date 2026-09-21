@@ -29,6 +29,8 @@
 | [0500 - KeyboardRow](Topics/Array/KeyboardRow) | Easy |
 | [1232 - CheckIfItIsaStraightLine](Topics/Array/CheckIfItIsaStraightLine) | Easy |
 | [1260 - Shift2DGrid](Topics/Array/Shift2DGrid) | Easy |
+| [0503 - NextGreaterElementII](Topics/Array/NextGreaterElementII) | Medium |
+
 
 ## SlidingWindow
 | Problem | Difficulty |
