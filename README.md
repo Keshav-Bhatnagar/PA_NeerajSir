@@ -87,6 +87,8 @@
 | [0023 - MergekSortedLists](Topics/LinkedList/MergekSortedLists) | Hard |
 | [0002 - AddTwoNumbers](Topics/LinkedList/AddTwoNumbers) | Medium |
 | [0025 - ReverseNodesInKGroup](Topics/LinkedList/ReverseNodesInKGroup) | Hard |
+| [2807 - InsertGreatestCommonDivisorsinLinkedList](Topics/LinkedList/InsertGreatestCommonDivisorsinLinkedList) | Medium |
+
 
 ## Math
 | Problem | Difficulty |
