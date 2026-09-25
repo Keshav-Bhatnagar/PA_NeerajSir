@@ -32,6 +32,8 @@
 | [0503 - NextGreaterElementII](Topics/Array/NextGreaterElementII) | Medium |
 | [3925 - ConcatenateArrayWithReverse](Topics/Array/ConcatenateArrayWithReverse) | Easy |
 | [3668 - RestoreFinishingOrder](Topics/Array/RestoreFinishingOrder) | Easy |
+| [3190 - FindMinimumOperationstoMakeAllElementsDivisiblebyThree](Topics/Array/FindMinimumOperationstoMakeAllElementsDivisiblebyThree) | Easy |
+
 
 
 
