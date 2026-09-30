@@ -140,3 +140,9 @@
 | [0394 - DecodeString](Topics/Stack/DecodeString) | Medium |
 | [0503 - NextGreaterElementII](Topics/Stack/NextGreaterElementII) | Medium |
 | [0735 - AsteroidCollision](Topics/Stack/AsteroidCollision) | Medium |
+
+
+## BackTracking
+| Problem | Difficulty |
+| ------- | ---------- |
+| [1863 - SumofAllSubsetXORTotals](Topics/BackTracking/SumofAllSubsetXORTotals) | Easy |
