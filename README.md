@@ -36,6 +36,8 @@
 | [2942 - FindWordsContainingCharacter](Topics/Array/FindWordsContainingCharacter) | Easy |
 | [2161 - PartitionArrayAccordingtoGivenPivot](Topics/Array/PartitionArrayAccordingtoGivenPivot) | Medium |
 | [3701 - ComputeAlternatingSum](Topics/Array/ComputeAlternatingSum) | Easy |
+| [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
+
 
 
 
