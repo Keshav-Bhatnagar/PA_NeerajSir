@@ -112,6 +112,8 @@
 | [0836 - RectangleOverlap](Topics/Math/RectangleOverlap) | Easy |
 | [3783 - MirrorDistanceofanInteger](Topics/Math/MirrorDistanceofanInteger) | Easy |
 | [2894 - DivisibleandNondivisibleSumsDifference](Topics/Math/DivisibleandNondivisibleSumsDifference) | Easy |
+| [3300 - MinimumElementAfterReplacementWithDigitSum](Topics/Math/MinimumElementAfterReplacementWithDigitSum) | Easy |
+
 
 
 
