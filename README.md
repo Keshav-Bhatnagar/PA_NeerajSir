@@ -35,6 +35,8 @@
 | [3190 - FindMinimumOperationstoMakeAllElementsDivisiblebyThree](Topics/Array/FindMinimumOperationstoMakeAllElementsDivisiblebyThree) | Easy |
 | [2942 - FindWordsContainingCharacter](Topics/Array/FindWordsContainingCharacter) | Easy |
 | [2161 - PartitionArrayAccordingtoGivenPivot](Topics/Array/PartitionArrayAccordingtoGivenPivot) | Medium |
+| [3701 - ComputeAlternatingSum](Topics/Array/ComputeAlternatingSum) | Easy |
+
 
 
 
