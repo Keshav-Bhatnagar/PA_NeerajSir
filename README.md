@@ -37,6 +37,8 @@
 | [2161 - PartitionArrayAccordingtoGivenPivot](Topics/Array/PartitionArrayAccordingtoGivenPivot) | Medium |
 | [3701 - ComputeAlternatingSum](Topics/Array/ComputeAlternatingSum) | Easy |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
+| [3289 - TheTwoSneakyNumbersofDigitville](Topics/Array/TheTwoSneakyNumbersofDigitville) | Easy |
+
 
 
 
