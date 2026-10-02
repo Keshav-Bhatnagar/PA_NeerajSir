@@ -167,3 +167,9 @@
 | Problem | Difficulty |
 | ------- | ---------- |
 | [3794 - ReverseStringPrefix](Topics/TwoPointers/ReverseStringPrefix) | Easy |
+
+
+## Hash Table
+| Problem | Difficulty |
+| ------- | ---------- |
+| [3541 - FindMostFrequentVowelandConsonant](Topics/HashTable/FindMostFrequentVowelandConsonant) | Easy |
