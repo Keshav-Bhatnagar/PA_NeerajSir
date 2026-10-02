@@ -117,6 +117,8 @@
 | [3783 - MirrorDistanceofanInteger](Topics/Math/MirrorDistanceofanInteger) | Easy |
 | [2894 - DivisibleandNondivisibleSumsDifference](Topics/Math/DivisibleandNondivisibleSumsDifference) | Easy |
 | [3300 - MinimumElementAfterReplacementWithDigitSum](Topics/Math/MinimumElementAfterReplacementWithDigitSum) | Easy *** | 
+| [3516 - FindClosestPerson](Topics/Math/FindClosestPerson) | Easy |
+
 
 
 
