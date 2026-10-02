@@ -146,6 +146,8 @@
 | [3498 - ReverseDegreeofaString](Topics/String/ReverseDegreeofaString) | Easy |
 | [0020 - ValidParentheses](Topics/String/ValidParentheses) | Easy |
 | [0022 - GenerateParentheses](Topics/String/GenerateParentheses) | Medium |
+| [1678 - GoalParserInterpretation](Topics/String/GoalParserInterpretation) | Easy |
+
 
 
 
