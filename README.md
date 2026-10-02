@@ -161,3 +161,9 @@
 | Problem | Difficulty |
 | ------- | ---------- |
 | [1863 - SumofAllSubsetXORTotals](Topics/BackTracking/SumofAllSubsetXORTotals) | Easy |
+
+
+## Linked List
+| Problem | Difficulty |
+| ------- | ---------- |
+| [2181 - MergeNodesinBetweenZeros](Topics/LinkedList/MergeNodesinBetweenZeros) | Medium |
