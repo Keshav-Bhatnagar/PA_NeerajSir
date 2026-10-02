@@ -39,6 +39,8 @@
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 | [3289 - TheTwoSneakyNumbersofDigitville](Topics/Array/TheTwoSneakyNumbersofDigitville) | Easy |
 | [3895 - CountDigitAppearances](Topics/Array/CountDigitAppearances) | Medium |
+| [3875 - ConstructUniformParityArrayI](Topics/Array/ConstructUniformParityArrayI) | Easy |
+
 
 
 
