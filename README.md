@@ -119,7 +119,7 @@
 | [3300 - MinimumElementAfterReplacementWithDigitSum](Topics/Math/MinimumElementAfterReplacementWithDigitSum) | Easy *** | 
 | [3516 - FindClosestPerson](Topics/Math/FindClosestPerson) | Easy |
 | [3280 - ConvertDatetoBinary](Topics/Math/ConvertDatetoBinary) | Easy |
-| [2413 - SmallestEvenMultiple](Topics/Math/SmallestEvenMultiple) | Easy |
+| [2235 - AddTwoIntegers](Topics/Math/AddTwoIntegers) | Easy |
 
 
 
