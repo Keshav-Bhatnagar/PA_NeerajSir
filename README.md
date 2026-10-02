@@ -118,6 +118,8 @@
 | [2894 - DivisibleandNondivisibleSumsDifference](Topics/Math/DivisibleandNondivisibleSumsDifference) | Easy |
 | [3300 - MinimumElementAfterReplacementWithDigitSum](Topics/Math/MinimumElementAfterReplacementWithDigitSum) | Easy *** | 
 | [3516 - FindClosestPerson](Topics/Math/FindClosestPerson) | Easy |
+| [3280 - ConvertDatetoBinary](Topics/Math/ConvertDatetoBinary) | Easy |
+
 
 
 
