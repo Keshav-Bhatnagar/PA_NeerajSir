@@ -67,6 +67,7 @@
 | [0039 - CombinationSum](Topics/Array/CombinationSum) | Medium |
 | [0040 - CombinationSumIi](Topics/Array/CombinationSumIi) | Medium |
 | [0401 - BinaryWatch](Topics/Backtracking/BinaryWatch) | Easy |
+| [1863 - SumofAllSubsetXORTotals](Topics/BackTracking/SumofAllSubsetXORTotals) | Easy |
 
 ## BitManipulation
 | Problem | Difficulty |
@@ -102,6 +103,7 @@
 | [0002 - AddTwoNumbers](Topics/LinkedList/AddTwoNumbers) | Medium |
 | [0025 - ReverseNodesInKGroup](Topics/LinkedList/ReverseNodesInKGroup) | Hard |
 | [2807 - InsertGreatestCommonDivisorsinLinkedList](Topics/LinkedList/InsertGreatestCommonDivisorsinLinkedList) | Medium |
+| [2181 - MergeNodesinBetweenZeros](Topics/LinkedList/MergeNodesinBetweenZeros) | Medium |
 
 
 ## Math
@@ -157,13 +159,3 @@
 | [0735 - AsteroidCollision](Topics/Stack/AsteroidCollision) | Medium |
 
 
-## BackTracking
-| Problem | Difficulty |
-| ------- | ---------- |
-| [1863 - SumofAllSubsetXORTotals](Topics/BackTracking/SumofAllSubsetXORTotals) | Easy |
-
-
-## Linked List
-| Problem | Difficulty |
-| ------- | ---------- |
-| [2181 - MergeNodesinBetweenZeros](Topics/LinkedList/MergeNodesinBetweenZeros) | Medium |
