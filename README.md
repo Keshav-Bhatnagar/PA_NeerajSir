@@ -209,3 +209,9 @@
 | Problem | Difficulty |
 | ------- | ---------- |
 | [2220 - MinimumBitFlipstoConvertNumber](Topics/BitManipulation/MinimumBitFlipstoConvertNumber) | Easy |
+
+
+## Tree
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0938 - RangeSumofBST](Topics/Tree/RangeSumofBST) | Easy |
