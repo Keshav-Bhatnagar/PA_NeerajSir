@@ -41,6 +41,8 @@
 | [3895 - CountDigitAppearances](Topics/Array/CountDigitAppearances) | Medium |
 | [3875 - ConstructUniformParityArrayI](Topics/Array/ConstructUniformParityArrayI) | Easy |
 | [3432 - CountPartitionswithEvenSumDifference](Topics/Array/CountPartitionswithEvenSumDifference) | Easy |
+| [2044 - CountNumberofMaximumBitwiseORSubsets](Topics/Array/CountNumberofMaximumBitwiseORSubsets) | Medium |
+
 
 
 
