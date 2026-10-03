@@ -39,6 +39,8 @@
 | [3432 - CountPartitionswithEvenSumDifference](Topics/Array/CountPartitionswithEvenSumDifference) | Easy |
 | [1684 - CounttheNumberofConsistentStrings](Topics/Array/CounttheNumberofConsistentStrings) | Easy |
 | [2433 - FindTheOriginalArrayofPrefixXor](Topics/Array/FindTheOriginalArrayofPrefixXor) | Medium |
+| [2657 - FindthePrefixCommonArrayofTwoArrays](Topics/Array/FindthePrefixCommonArrayofTwoArrays) | Medium |
+
 
 
 
