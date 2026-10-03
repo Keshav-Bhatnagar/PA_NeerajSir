@@ -71,8 +71,8 @@ def main():
     # Rebuild README
     new_readme = []
     new_readme.append('<div align="center">')
-    # Awesome Hacker GIF Banner
-    new_readme.append('  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation"/>')
+    # Sleek Animated Typing SVG
+    new_readme.append('  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Structures+%26+Algorithms;Solving+LeetCode+Problems;Java+Solutions" alt="Typing SVG" /></a>')
     new_readme.append('  <br/><br/>')
     new_readme.append('  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>')
     new_readme.append('  <br/><br/>')

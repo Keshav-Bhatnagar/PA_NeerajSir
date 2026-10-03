@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Structures+%26+Algorithms;Solving+LeetCode+Problems;Java+Solutions" alt="Typing SVG" /></a>
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
@@ -12,31 +12,30 @@
   <tr>
     <td><a href="#array">🧱 Array</a></td>
     <td><a href="#backtracking">🔙 BackTracking</a></td>
-    <td><a href="#backtracking">🔙 Backtracking</a></td>
+    <td><a href="#binarysearch">🔍 BinarySearch</a></td>
   </tr>
   <tr>
-    <td><a href="#binarysearch">🔍 BinarySearch</a></td>
     <td><a href="#bitmanipulation">0️⃣ BitManipulation</a></td>
     <td><a href="#dynamicprogramming">⚡ DynamicProgramming</a></td>
+    <td><a href="#hashtable">🗄️ HashTable</a></td>
   </tr>
   <tr>
-    <td><a href="#hashtable">🗄️ HashTable</a></td>
     <td><a href="#linkedlist">🔗 LinkedList</a></td>
     <td><a href="#math">🧮 Math</a></td>
+    <td><a href="#slidingwindow">🪟 SlidingWindow</a></td>
   </tr>
   <tr>
-    <td><a href="#slidingwindow">🪟 SlidingWindow</a></td>
     <td><a href="#stack">🥞 Stack</a></td>
     <td><a href="#string">🧵 String</a></td>
+    <td><a href="#tree">🌲 Tree</a></td>
   </tr>
   <tr>
-    <td><a href="#tree">🌲 Tree</a></td>
     <td><a href="#twopointers">✌️ TwoPointers</a></td>
     <td><a href="#uncategorized">🔹 Uncategorized</a></td>
+    <td></td>
   </tr>
 </table>
 <br/>
-
 ## <a id="array"></a>🧱 Array
 | Problem | Difficulty |
 | ------- | ---------- |
@@ -54,6 +53,8 @@
 ## <a id="backtracking"></a>🔙 BackTracking
 | Problem | Difficulty |
 | ------- | ---------- |
+| [Backtracking](Topics/BackTracking/Backtracking) | Medium |
+| [BinaryWatch](Topics/BackTracking/BinaryWatch) | Medium |
 | [CombinationSum](Topics/BackTracking/CombinationSum) | Medium |
 | [CombinationSumIi](Topics/BackTracking/CombinationSumIi) | Medium |
 | [CountNumberofMaximumBitwiseORSubsets](Topics/BackTracking/CountNumberofMaximumBitwiseORSubsets) | Medium |
@@ -63,12 +64,6 @@
 | [SubsetsII](Topics/BackTracking/SubsetsII) | Medium |
 | [SudokuSolver](Topics/BackTracking/SudokuSolver) | Hard |
 | [1863 - SumofAllSubsetXORTotals](Topics/BackTracking/SumofAllSubsetXORTotals) | Easy |
-
-## <a id="backtracking"></a>🔙 Backtracking
-| Problem | Difficulty |
-| ------- | ---------- |
-| [Backtracking](Topics/Backtracking/Backtracking) | Medium |
-| [BinaryWatch](Topics/Backtracking/BinaryWatch) | Medium |
 
 ## <a id="binarysearch"></a>🔍 BinarySearch
 | Problem | Difficulty |
