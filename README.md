@@ -40,6 +40,8 @@
 | [1684 - CounttheNumberofConsistentStrings](Topics/Array/CounttheNumberofConsistentStrings) | Easy |
 | [2433 - FindTheOriginalArrayofPrefixXor](Topics/Array/FindTheOriginalArrayofPrefixXor) | Medium |
 | [2657 - FindthePrefixCommonArrayofTwoArrays](Topics/Array/FindthePrefixCommonArrayofTwoArrays) | Medium |
+| [2373 - LargestLocalValuesinaMatrix](Topics/Array/LargestLocalValuesinaMatrix) | Easy |
+
 
 
 
