@@ -41,6 +41,8 @@
 | [2433 - FindTheOriginalArrayofPrefixXor](Topics/Array/FindTheOriginalArrayofPrefixXor) | Medium |
 | [2657 - FindthePrefixCommonArrayofTwoArrays](Topics/Array/FindthePrefixCommonArrayofTwoArrays) | Medium |
 | [2373 - LargestLocalValuesinaMatrix](Topics/Array/LargestLocalValuesinaMatrix) | Easy |
+| [2824 - CountPairsWhoseSumisLessthanTarget](Topics/Array/CountPairsWhoseSumisLessthanTarget) | Easy |
+
 
 
 
