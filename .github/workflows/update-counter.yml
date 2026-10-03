@@ -1,0 +1,43 @@
+name: Update Problem Counter
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'Topics/**'
+      - '.github/workflows/update-counter.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Count unique problems and update README
+        id: count_problems
+        run: |
+          # Find all directories exactly 2 levels deep inside Topics (i.e. Topics/Category/ProblemName)
+          # Extract just the directory names, sort uniquely, and count them
+          COUNT=$(find Topics -mindepth 2 -maxdepth 2 -type d -exec basename {} \; | sort -u | wc -l)
+          
+          # Remove any potential whitespace
+          COUNT=$(echo $COUNT | xargs)
+          
+          echo "Total unique problems: $COUNT"
+          
+          # Replace the badge URL with the new count in README.md
+          sed -i -E "s/Problems%20Solved-[0-9]+-blue/Problems%20Solved-${COUNT}-blue/g" README.md
+          
+          # Save count to environment variable for the commit message
+          echo "count=$COUNT" >> $GITHUB_ENV
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update problem counter to ${{ env.count }}"
+          file_pattern: README.md
