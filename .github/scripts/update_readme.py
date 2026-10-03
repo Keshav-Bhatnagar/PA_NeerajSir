@@ -8,15 +8,6 @@ TOPICS_DIR = os.path.join(ROOT_DIR, "Topics")
 # Regex to find links in the README
 PROBLEM_REGEX = re.compile(r"\|\s*\[(.*?)\]\((Topics/[^/]+/[^/]+)\)\s*\|\s*(.*?)\s*\|")
 
-# Cool Emojis for categories
-CATEGORY_EMOJIS = {
-    "Array": "🧱", "BackTracking": "🔙", "Backtracking": "🔙", "BinarySearch": "🔍",
-    "BitManipulation": "0️⃣", "DynamicProgramming": "⚡", "Greedy": "🤑",
-    "HashTable": "🗄️", "LinkedList": "🔗", "Math": "🧮",
-    "SlidingWindow": "🪟", "Sorting": "🔄", "Stack": "🥞",
-    "String": "🧵", "Tree": "🌲", "TwoPointers": "✌️", "Uncategorized": "🔹"
-}
-
 def main():
     if not os.path.exists(README_PATH):
         print("README.md not found.")
@@ -92,23 +83,21 @@ def main():
         for j in range(cols):
             if i + j < len(categories):
                 cat = categories[i + j]
-                emoji = CATEGORY_EMOJIS.get(cat, "🔹")
                 # Creating a clean anchor link target
                 anchor = cat.lower().replace(' ', '-')
-                new_readme.append(f'    <td><a href="#{anchor}">{emoji} {cat}</a></td>')
+                new_readme.append(f'    <td><a href="#{anchor}">{cat}</a></td>')
             else:
                 new_readme.append('    <td></td>')
         new_readme.append('  </tr>')
     new_readme.append('</table>')
     new_readme.append('<br/>')
 
-    # Category Tables with Emojis and bulletproof anchors
+    # Category Tables with bulletproof anchors
     for category, problems in topics.items():
-        emoji = CATEGORY_EMOJIS.get(category, "🔹")
         anchor = category.lower().replace(' ', '-')
         
         # Injecting anchor tag directly so the TOC link is guaranteed to work
-        new_readme.append(f'## <a id="{anchor}"></a>{emoji} {category}')
+        new_readme.append(f'## <a id="{anchor}"></a>{category}')
         new_readme.append('| Problem | Difficulty |')
         new_readme.append('| ------- | ---------- |')
         for display_name, rel_path, difficulty in problems:
