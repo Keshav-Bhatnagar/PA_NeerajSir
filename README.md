@@ -38,6 +38,8 @@
 | [3875 - ConstructUniformParityArrayI](Topics/Array/ConstructUniformParityArrayI) | Easy |
 | [3432 - CountPartitionswithEvenSumDifference](Topics/Array/CountPartitionswithEvenSumDifference) | Easy |
 | [1684 - CounttheNumberofConsistentStrings](Topics/Array/CounttheNumberofConsistentStrings) | Easy |
+| [2433 - FindTheOriginalArrayofPrefixXor](Topics/Array/FindTheOriginalArrayofPrefixXor) | Medium |
+
 
 
 
