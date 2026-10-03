@@ -12,27 +12,27 @@
   <tr>
     <td><a href="#array">🧱 Array</a></td>
     <td><a href="#backtracking">🔙 BackTracking</a></td>
-    <td><a href="#binarysearch">🔍 BinarySearch</a></td>
+    <td><a href="#backtracking">🔙 Backtracking</a></td>
   </tr>
   <tr>
+    <td><a href="#binarysearch">🔍 BinarySearch</a></td>
     <td><a href="#bitmanipulation">0️⃣ BitManipulation</a></td>
     <td><a href="#dynamicprogramming">⚡ DynamicProgramming</a></td>
-    <td><a href="#hashtable">🗄️ HashTable</a></td>
   </tr>
   <tr>
+    <td><a href="#hashtable">🗄️ HashTable</a></td>
     <td><a href="#linkedlist">🔗 LinkedList</a></td>
     <td><a href="#math">🧮 Math</a></td>
-    <td><a href="#slidingwindow">🪟 SlidingWindow</a></td>
   </tr>
   <tr>
+    <td><a href="#slidingwindow">🪟 SlidingWindow</a></td>
     <td><a href="#stack">🥞 Stack</a></td>
     <td><a href="#string">🧵 String</a></td>
-    <td><a href="#tree">🌲 Tree</a></td>
   </tr>
   <tr>
+    <td><a href="#tree">🌲 Tree</a></td>
     <td><a href="#twopointers">✌️ TwoPointers</a></td>
     <td><a href="#uncategorized">🔹 Uncategorized</a></td>
-    <td></td>
   </tr>
 </table>
 <br/>
@@ -53,8 +53,6 @@
 ## <a id="backtracking"></a>🔙 BackTracking
 | Problem | Difficulty |
 | ------- | ---------- |
-| [Backtracking](Topics/BackTracking/Backtracking) | Medium |
-| [BinaryWatch](Topics/BackTracking/BinaryWatch) | Medium |
 | [CombinationSum](Topics/BackTracking/CombinationSum) | Medium |
 | [CombinationSumIi](Topics/BackTracking/CombinationSumIi) | Medium |
 | [CountNumberofMaximumBitwiseORSubsets](Topics/BackTracking/CountNumberofMaximumBitwiseORSubsets) | Medium |
@@ -64,6 +62,12 @@
 | [SubsetsII](Topics/BackTracking/SubsetsII) | Medium |
 | [SudokuSolver](Topics/BackTracking/SudokuSolver) | Hard |
 | [1863 - SumofAllSubsetXORTotals](Topics/BackTracking/SumofAllSubsetXORTotals) | Easy |
+
+## <a id="backtracking"></a>🔙 Backtracking
+| Problem | Difficulty |
+| ------- | ---------- |
+| [Backtracking](Topics/Backtracking/Backtracking) | Medium |
+| [BinaryWatch](Topics/Backtracking/BinaryWatch) | Medium |
 
 ## <a id="binarysearch"></a>🔍 BinarySearch
 | Problem | Difficulty |
