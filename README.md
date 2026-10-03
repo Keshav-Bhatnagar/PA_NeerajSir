@@ -195,3 +195,9 @@
 | [3794 - ReverseStringPrefix](Topics/TwoPointers/ReverseStringPrefix) | Easy |
 
 
+
+
+## Bit Manipulation
+| Problem | Difficulty |
+| ------- | ---------- |
+| [2220 - MinimumBitFlipstoConvertNumber](Topics/BitManipulation/MinimumBitFlipstoConvertNumber) | Easy |
