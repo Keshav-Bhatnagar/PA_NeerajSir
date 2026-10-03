@@ -168,6 +168,8 @@
 | [1678 - GoalParserInterpretation](Topics/String/GoalParserInterpretation) | Easy |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [3498 - ReverseDegreeofaString](Topics/String/ReverseDegreeofaString) | Easy |
+| [1221 - SplitaStringinBalancedStrings](Topics/String/SplitaStringinBalancedStrings) | Easy |
+
 
 
 
