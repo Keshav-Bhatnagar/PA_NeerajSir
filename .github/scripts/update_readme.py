@@ -5,16 +5,16 @@ ROOT_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 README_PATH = os.path.join(ROOT_DIR, "README.md")
 TOPICS_DIR = os.path.join(ROOT_DIR, "Topics")
 
-# Regex to find links in the README: | [0001 - TwoSum](Topics/Array/TwoSum) | Easy |
+# Regex to find links in the README
 PROBLEM_REGEX = re.compile(r"\|\s*\[(.*?)\]\((Topics/[^/]+/[^/]+)\)\s*\|\s*(.*?)\s*\|")
 
-# Cool Emojis for categories to make it feel alive!
+# Cool Emojis for categories
 CATEGORY_EMOJIS = {
     "Array": "🧱", "BackTracking": "🔙", "Backtracking": "🔙", "BinarySearch": "🔍",
     "BitManipulation": "0️⃣", "DynamicProgramming": "⚡", "Greedy": "🤑",
     "HashTable": "🗄️", "LinkedList": "🔗", "Math": "🧮",
     "SlidingWindow": "🪟", "Sorting": "🔄", "Stack": "🥞",
-    "String": "🧵", "Tree": "🌲", "TwoPointers": "✌️"
+    "String": "🧵", "Tree": "🌲", "TwoPointers": "✌️", "Uncategorized": "🔹"
 }
 
 def main():
@@ -34,7 +34,6 @@ def main():
         known_problems[rel_path] = (display_name, difficulty)
 
     topics = {}
-    all_problems = [] # For recently solved tracking
     
     if os.path.exists(TOPICS_DIR):
         for category in sorted(os.listdir(TOPICS_DIR)):
@@ -61,9 +60,6 @@ def main():
                             if diff_match: difficulty = diff_match.group(1).strip()
                 
                 topics[category].append((display_name, rel_path, difficulty))
-                # Store modification time to find "Recently Solved"
-                mtime = os.path.getmtime(prob_path)
-                all_problems.append((mtime, display_name, rel_path, difficulty))
 
     # Calculate total unique problems
     unique_problems = set()
@@ -84,31 +80,35 @@ def main():
     new_readme.append('  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">')
     new_readme.append('</div>')
     new_readme.append('<br/>')
-    
-    # 🔥 Recently Solved Section
-    new_readme.append('## 🔥 Recently Solved')
-    new_readme.append('Here are the latest problems I have tackled:')
-    new_readme.append('')
-    new_readme.append('| Problem | Difficulty |')
-    new_readme.append('| ------- | ---------- |')
-    # Sort all problems by modified time (descending) and take top 3
-    recent = sorted(all_problems, key=lambda x: x[0], reverse=True)[:3]
-    for _, disp, rel, diff in recent:
-        new_readme.append(f'| [{disp}]({rel}) | {diff} |')
-    new_readme.append('')
 
-    # Table of Contents
+    # Table of Contents (Grid format)
     new_readme.append('## 📑 Table of Contents')
-    for category in topics.keys():
-        anchor = category.lower().replace(' ', '-')
-        emoji = CATEGORY_EMOJIS.get(category, "🔹")
-        new_readme.append(f'- [{emoji} {category}](#{anchor})')
-    new_readme.append('')
+    new_readme.append('<table>')
+    
+    categories = list(topics.keys())
+    cols = 3
+    for i in range(0, len(categories), cols):
+        new_readme.append('  <tr>')
+        for j in range(cols):
+            if i + j < len(categories):
+                cat = categories[i + j]
+                emoji = CATEGORY_EMOJIS.get(cat, "🔹")
+                # Creating a clean anchor link target
+                anchor = cat.lower().replace(' ', '-')
+                new_readme.append(f'    <td><a href="#{anchor}">{emoji} {cat}</a></td>')
+            else:
+                new_readme.append('    <td></td>')
+        new_readme.append('  </tr>')
+    new_readme.append('</table>')
+    new_readme.append('<br/>')
 
-    # Category Tables with Emojis
+    # Category Tables with Emojis and bulletproof anchors
     for category, problems in topics.items():
         emoji = CATEGORY_EMOJIS.get(category, "🔹")
-        new_readme.append(f'## {emoji} {category}')
+        anchor = category.lower().replace(' ', '-')
+        
+        # Injecting anchor tag directly so the TOC link is guaranteed to work
+        new_readme.append(f'## <a id="{anchor}"></a>{emoji} {category}')
         new_readme.append('| Problem | Difficulty |')
         new_readme.append('| ------- | ---------- |')
         for display_name, rel_path, difficulty in problems:

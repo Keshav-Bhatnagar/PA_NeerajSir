@@ -7,31 +7,36 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
-## 🔥 Recently Solved
-Here are the latest problems I have tackled:
-
-| Problem | Difficulty |
-| ------- | ---------- |
-| [0938 - RangeSumofBST](Topics/Tree/RangeSumofBST) | Easy |
-| [1221 - SplitaStringinBalancedStrings](Topics/String/SplitaStringinBalancedStrings) | Easy |
-| [1486 - XOROperationinanArray](Topics/Math/XOROperationinanArray) | Easy |
-
 ## 📑 Table of Contents
-- [🧱 Array](#array)
-- [🔙 BackTracking](#backtracking)
-- [0️⃣ BitManipulation](#bitmanipulation)
-- [⚡ DynamicProgramming](#dynamicprogramming)
-- [🗄️ HashTable](#hashtable)
-- [🔗 LinkedList](#linkedlist)
-- [🧮 Math](#math)
-- [🪟 SlidingWindow](#slidingwindow)
-- [🥞 Stack](#stack)
-- [🧵 String](#string)
-- [🌲 Tree](#tree)
-- [✌️ TwoPointers](#twopointers)
-- [🔹 Uncategorized](#uncategorized)
-
-## 🧱 Array
+<table>
+  <tr>
+    <td><a href="#array">🧱 Array</a></td>
+    <td><a href="#backtracking">🔙 BackTracking</a></td>
+    <td><a href="#bitmanipulation">0️⃣ BitManipulation</a></td>
+  </tr>
+  <tr>
+    <td><a href="#dynamicprogramming">⚡ DynamicProgramming</a></td>
+    <td><a href="#hashtable">🗄️ HashTable</a></td>
+    <td><a href="#linkedlist">🔗 LinkedList</a></td>
+  </tr>
+  <tr>
+    <td><a href="#math">🧮 Math</a></td>
+    <td><a href="#slidingwindow">🪟 SlidingWindow</a></td>
+    <td><a href="#stack">🥞 Stack</a></td>
+  </tr>
+  <tr>
+    <td><a href="#string">🧵 String</a></td>
+    <td><a href="#tree">🌲 Tree</a></td>
+    <td><a href="#twopointers">✌️ TwoPointers</a></td>
+  </tr>
+  <tr>
+    <td><a href="#uncategorized">🔹 Uncategorized</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+<br/>
+## <a id="array"></a>🧱 Array
 | Problem | Difficulty |
 | ------- | ---------- |
 | [0704 - BinarySearch](Topics/Array/BinarySearch) | Easy |
@@ -70,7 +75,7 @@ Here are the latest problems I have tackled:
 | [3289 - TheTwoSneakyNumbersofDigitville](Topics/Array/TheTwoSneakyNumbersofDigitville) | Easy |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 
-## 🔙 BackTracking
+## <a id="backtracking"></a>🔙 BackTracking
 | Problem | Difficulty |
 | ------- | ---------- |
 | [Backtracking](Topics/BackTracking/Backtracking) | Medium |
@@ -78,18 +83,18 @@ Here are the latest problems I have tackled:
 | [3211 - GenerateBinaryStringsWithoutAdjacentZeros](Topics/BackTracking/GenerateBinaryStringsWithoutAdjacentZeros) | Medium |
 | [1863 - SumofAllSubsetXORTotals](Topics/BackTracking/SumofAllSubsetXORTotals) | Easy |
 
-## 0️⃣ BitManipulation
+## <a id="bitmanipulation"></a>0️⃣ BitManipulation
 | Problem | Difficulty |
 | ------- | ---------- |
 | [2220 - MinimumBitFlipstoConvertNumber](Topics/BitManipulation/MinimumBitFlipstoConvertNumber) | Easy |
 | [0476 - NumberComplement](Topics/BitManipulation/NumberComplement) | Easy |
 
-## ⚡ DynamicProgramming
+## <a id="dynamicprogramming"></a>⚡ DynamicProgramming
 | Problem | Difficulty |
 | ------- | ---------- |
 | [0062 - UniquePaths](Topics/DynamicProgramming/UniquePaths) | Medium |
 
-## 🗄️ HashTable
+## <a id="hashtable"></a>🗄️ HashTable
 | Problem | Difficulty |
 | ------- | ---------- |
 | [0442 - FindAllDuplicatesInAnArray](Topics/HashTable/FindAllDuplicatesInAnArray) | Medium |
@@ -100,7 +105,7 @@ Here are the latest problems I have tackled:
 | [3718 - SmallestMissingMultipleOfK](Topics/HashTable/SmallestMissingMultipleOfK) | Easy |
 | [2418 - SortThePeople](Topics/HashTable/SortThePeople) | Easy |
 
-## 🔗 LinkedList
+## <a id="linkedlist"></a>🔗 LinkedList
 | Problem | Difficulty |
 | ------- | ---------- |
 | [0002 - AddTwoNumbers](Topics/LinkedList/AddTwoNumbers) | Medium |
@@ -111,7 +116,7 @@ Here are the latest problems I have tackled:
 | [0086 - PartitionList](Topics/LinkedList/PartitionList) | Medium |
 | [0025 - ReverseNodesInKGroup](Topics/LinkedList/ReverseNodesInKGroup) | Hard |
 
-## 🧮 Math
+## <a id="math"></a>🧮 Math
 | Problem | Difficulty |
 | ------- | ---------- |
 | [2235 - AddTwoIntegers](Topics/Math/AddTwoIntegers) | Easy |
@@ -126,12 +131,12 @@ Here are the latest problems I have tackled:
 | [0495 - TeemoAttacking](Topics/Math/TeemoAttacking) | Easy |
 | [1486 - XOROperationinanArray](Topics/Math/XOROperationinanArray) | Easy |
 
-## 🪟 SlidingWindow
+## <a id="slidingwindow"></a>🪟 SlidingWindow
 | Problem | Difficulty |
 | ------- | ---------- |
 | [0209 - MinimumSizeSubarraySum](Topics/SlidingWindow/MinimumSizeSubarraySum) | Medium |
 
-## 🥞 Stack
+## <a id="stack"></a>🥞 Stack
 | Problem | Difficulty |
 | ------- | ---------- |
 | [0735 - AsteroidCollision](Topics/Stack/AsteroidCollision) | Medium |
@@ -142,7 +147,7 @@ Here are the latest problems I have tackled:
 | [0503 - NextGreaterElementII](Topics/Stack/NextGreaterElementII) | Medium |
 | [0071 - SimplifyPath](Topics/Stack/SimplifyPath) | Medium |
 
-## 🧵 String
+## <a id="string"></a>🧵 String
 | Problem | Difficulty |
 | ------- | ---------- |
 | [GenerateBinaryStringsWithoutAdjacentZeros](Topics/String/GenerateBinaryStringsWithoutAdjacentZeros) | Medium |
@@ -156,17 +161,17 @@ Here are the latest problems I have tackled:
 | [1221 - SplitaStringinBalancedStrings](Topics/String/SplitaStringinBalancedStrings) | Easy |
 | [0020 - ValidParentheses](Topics/String/ValidParentheses) | Easy |
 
-## 🌲 Tree
+## <a id="tree"></a>🌲 Tree
 | Problem | Difficulty |
 | ------- | ---------- |
 | [0938 - RangeSumofBST](Topics/Tree/RangeSumofBST) | Easy |
 
-## ✌️ TwoPointers
+## <a id="twopointers"></a>✌️ TwoPointers
 | Problem | Difficulty |
 | ------- | ---------- |
 | [3794 - ReverseStringPrefix](Topics/TwoPointers/ReverseStringPrefix) | Easy |
 
-## 🔹 Uncategorized
+## <a id="uncategorized"></a>🔹 Uncategorized
 | Problem | Difficulty |
 | ------- | ---------- |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
