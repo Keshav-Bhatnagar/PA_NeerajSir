@@ -9,6 +9,7 @@
 ## 📑 Table of Contents
 - [Array](#array)
 - [BackTracking](#backtracking)
+- [Backtracking](#backtracking)
 - [BitManipulation](#bitmanipulation)
 - [DynamicProgramming](#dynamicprogramming)
 - [HashTable](#hashtable)
@@ -63,10 +64,14 @@
 ## BackTracking
 | Problem | Difficulty |
 | ------- | ---------- |
-| [Backtracking](Topics/BackTracking/Backtracking) | Medium |
-| [BinaryWatch](Topics/BackTracking/BinaryWatch) | Medium |
 | [3211 - GenerateBinaryStringsWithoutAdjacentZeros](Topics/BackTracking/GenerateBinaryStringsWithoutAdjacentZeros) | Medium |
 | [1863 - SumofAllSubsetXORTotals](Topics/BackTracking/SumofAllSubsetXORTotals) | Easy |
+
+## Backtracking
+| Problem | Difficulty |
+| ------- | ---------- |
+| [Backtracking](Topics/Backtracking/Backtracking) | Medium |
+| [BinaryWatch](Topics/Backtracking/BinaryWatch) | Medium |
 
 ## BitManipulation
 | Problem | Difficulty |
