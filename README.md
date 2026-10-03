@@ -9,8 +9,6 @@
 | ------- | ---------- |
 | [0033 - SearchInRotatedSortedArray](Topics/Array/SearchInRotatedSortedArray) | Medium |
 | [0034 - FindFirstAndLastPositionOfElementInSortedArray](Topics/Array/FindFirstAndLastPositionOfElementInSortedArray) | Medium |
-| [0039 - CombinationSum](Topics/Array/CombinationSum) | Medium |
-| [0040 - CombinationSumIi](Topics/Array/CombinationSumIi) | Medium |
 | [0054 - SpiralMatrix](Topics/Array/SpiralMatrix) | Medium |
 | [0064 - MinimumPathSum](Topics/Array/MinimumPathSum) | Medium |
 | [0088 - MergeSortedArray](Topics/Array/MergeSortedArray) | Easy |
@@ -22,14 +20,10 @@
 | [1431 - KidsWithTheGreatestNumberOfCandies](Topics/Array/KidsWithTheGreatestNumberOfCandies) | Easy |
 | [2418 - SortThePeople](Topics/HashTable/SortThePeople) | Easy |
 | [3718 - SmallestMissingMultipleOfK](Topics/HashTable/SmallestMissingMultipleOfK) | Easy |
-| [0090 - SubsetsII](Topics/Array/SubsetsII) | Medium |
 | [2094 - Finding3DigitEvenNumbers](Topics/Array/Finding3DigitEvenNumbers) | Easy |
-| [0051 - NQueens](Topics/Array/NQueens) | Hard |
-| [0037 - SudokuSolver](Topics/Array/SudokuSolver) | Hard |
 | [0500 - KeyboardRow](Topics/Array/KeyboardRow) | Easy |
 | [1232 - CheckIfItIsaStraightLine](Topics/Array/CheckIfItIsaStraightLine) | Easy |
 | [1260 - Shift2DGrid](Topics/Array/Shift2DGrid) | Easy |
-| [0503 - NextGreaterElementII](Topics/Array/NextGreaterElementII) | Medium |
 | [3925 - ConcatenateArrayWithReverse](Topics/Array/ConcatenateArrayWithReverse) | Easy |
 | [3668 - RestoreFinishingOrder](Topics/Array/RestoreFinishingOrder) | Easy |
 | [3190 - FindMinimumOperationstoMakeAllElementsDivisiblebyThree](Topics/Array/FindMinimumOperationstoMakeAllElementsDivisiblebyThree) | Easy |
@@ -41,7 +35,6 @@
 | [3895 - CountDigitAppearances](Topics/Array/CountDigitAppearances) | Medium |
 | [3875 - ConstructUniformParityArrayI](Topics/Array/ConstructUniformParityArrayI) | Easy |
 | [3432 - CountPartitionswithEvenSumDifference](Topics/Array/CountPartitionswithEvenSumDifference) | Easy |
-| [2044 - CountNumberofMaximumBitwiseORSubsets](Topics/Array/CountNumberofMaximumBitwiseORSubsets) | Medium |
 
 
 
@@ -61,6 +54,7 @@
 | ------- | ---------- |
 | [0003 - LongestSubstringWithoutRepeatingCharacters](Topics/HashTable/LongestSubstringWithoutRepeatingCharacters) | Medium |
 | [0209 - MinimumSizeSubarraySum](Topics/SlidingWindow/MinimumSizeSubarraySum) | Medium |
+| [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
 
 ## BinarySearch
 | Problem | Difficulty |
@@ -74,16 +68,23 @@
 | Problem | Difficulty |
 | ------- | ---------- |
 | [Backtracking](Topics/Backtracking/Backtracking) | N/A |
+| [0022 - GenerateParentheses](Topics/String/GenerateParentheses) | Medium |
+| [0037 - SudokuSolver](Topics/Array/SudokuSolver) | Hard |
 | [0039 - CombinationSum](Topics/Array/CombinationSum) | Medium |
 | [0040 - CombinationSumIi](Topics/Array/CombinationSumIi) | Medium |
+| [0051 - NQueens](Topics/Array/NQueens) | Hard |
+| [0090 - SubsetsII](Topics/Array/SubsetsII) | Medium |
 | [0401 - BinaryWatch](Topics/Backtracking/BinaryWatch) | Easy |
 | [1863 - SumofAllSubsetXORTotals](Topics/BackTracking/SumofAllSubsetXORTotals) | Easy |
+| [2044 - CountNumberofMaximumBitwiseORSubsets](Topics/Array/CountNumberofMaximumBitwiseORSubsets) | Medium |
+| [3211 - GenerateBinaryStringsWithoutAdjacentZeros](Topics/BackTracking/GenerateBinaryStringsWithoutAdjacentZeros) | Medium |
 
 ## BitManipulation
 | Problem | Difficulty |
 | ------- | ---------- |
 | [0401 - BinaryWatch](Topics/Backtracking/BinaryWatch) | Easy |
 | [0476 - NumberComplement](Topics/BitManipulation/NumberComplement) | Easy |
+| [2044 - CountNumberofMaximumBitwiseORSubsets](Topics/Array/CountNumberofMaximumBitwiseORSubsets) | Medium |
 
 ## DynamicProgramming
 | Problem | Difficulty |
@@ -91,7 +92,6 @@
 | [0062 - UniquePaths](Topics/DynamicProgramming/UniquePaths) | Medium |
 | [0064 - MinimumPathSum](Topics/Array/MinimumPathSum) | Medium |
 | [0118 - PascalsTriangle](Topics/Array/PascalsTriangle) | Easy |
-| [0062 - UniquePaths](Topics/DynamicProgramming/UniquePaths) | Medium |
 
 ## HashTable
 | Problem | Difficulty |
@@ -102,6 +102,7 @@
 | [2418 - SortThePeople](Topics/HashTable/SortThePeople) | Easy |
 | [3718 - SmallestMissingMultipleOfK](Topics/HashTable/SmallestMissingMultipleOfK) | Easy |
 | [0141 - LinkedListCycle](Topics/HashTable/LinkedListCycle) | Easy |
+| [3541 - FindMostFrequentVowelandConsonant](Topics/HashTable/FindMostFrequentVowelandConsonant) | Easy |
 
 ## LinkedList
 | Problem | Difficulty |
@@ -111,7 +112,6 @@
 | [0086 - PartitionList](Topics/LinkedList/PartitionList) | Medium |
 | [0023 - MergekSortedLists](Topics/LinkedList/MergekSortedLists) | Hard |
 | [0002 - AddTwoNumbers](Topics/LinkedList/AddTwoNumbers) | Medium |
-| [0025 - ReverseNodesInKGroup](Topics/LinkedList/ReverseNodesInKGroup) | Hard |
 | [2807 - InsertGreatestCommonDivisorsinLinkedList](Topics/LinkedList/InsertGreatestCommonDivisorsinLinkedList) | Medium |
 | [2181 - MergeNodesinBetweenZeros](Topics/LinkedList/MergeNodesinBetweenZeros) | Medium |
 
@@ -151,23 +151,17 @@
 | [0482 - LicenseKeyFormatting](Topics/String/LicenseKeyFormatting) | Easy |
 | [0541 - ReverseStringII](Topics/String/ReverseStringII) | Easy |
 | [0557 - ReverseWordsinaStringIII](Topics/String/ReverseWordsinaStringIII) | Easy |
-| [3498 - ReverseDegreeofaString](Topics/String/ReverseDegreeofaString) | Easy |
-| [0020 - ValidParentheses](Topics/String/ValidParentheses) | Easy |
-| [0022 - GenerateParentheses](Topics/String/GenerateParentheses) | Medium |
-| [1678 - GoalParserInterpretation](Topics/String/GoalParserInterpretation) | Easy |
-| [0032 - LongestValidParentheses](Topics/String/LongestValidParentheses) | Hard |
-| [3211 - GenerateBinaryStringsWithoutAdjacentZeros](Topics/String/GenerateBinaryStringsWithoutAdjacentZeros) | Medium |
-
-
-
-
-
-
-## Uncategorized
-| Problem | Difficulty |
-| ------- | ---------- |
 | [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
+| [1678 - GoalParserInterpretation](Topics/String/GoalParserInterpretation) | Easy |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
+| [3498 - ReverseDegreeofaString](Topics/String/ReverseDegreeofaString) | Easy |
+
+
+
+
+
+
+
 
 ## Stack
 | Problem | Difficulty |
@@ -180,6 +174,7 @@
 | [0503 - NextGreaterElementII](Topics/Stack/NextGreaterElementII) | Medium |
 | [0735 - AsteroidCollision](Topics/Stack/AsteroidCollision) | Medium |
 | [0032 - LongestValidParentheses](Topics/String/LongestValidParentheses) | Hard |
+| [0020 - ValidParentheses](Topics/String/ValidParentheses) | Easy |
 
 
 
@@ -187,16 +182,7 @@
 ## Two Pointers
 | Problem | Difficulty |
 | ------- | ---------- |
+| [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [3794 - ReverseStringPrefix](Topics/TwoPointers/ReverseStringPrefix) | Easy |
 
 
-## Hash Table
-| Problem | Difficulty |
-| ------- | ---------- |
-| [3541 - FindMostFrequentVowelandConsonant](Topics/HashTable/FindMostFrequentVowelandConsonant) | Easy |
-
-
-## BackTracking
-| Problem | Difficulty |
-| ------- | ---------- |
-| [3211 - GenerateBinaryStringsWithoutAdjacentZeros](Topics/BackTracking/GenerateBinaryStringsWithoutAdjacentZeros) | Medium |
