@@ -179,6 +179,7 @@
 | [0394 - DecodeString](Topics/Stack/DecodeString) | Medium |
 | [0503 - NextGreaterElementII](Topics/Stack/NextGreaterElementII) | Medium |
 | [0735 - AsteroidCollision](Topics/Stack/AsteroidCollision) | Medium |
+| [0032 - LongestValidParentheses](Topics/String/LongestValidParentheses) | Hard |
 
 
 
