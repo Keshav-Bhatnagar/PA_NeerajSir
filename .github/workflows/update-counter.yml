@@ -21,7 +21,7 @@ jobs:
       - name: Count unique problems and update README
         id: update_readme
         run: |
-          python scripts/update_readme.py
+          python .github/scripts/update_readme.py
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
