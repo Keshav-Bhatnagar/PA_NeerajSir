@@ -12,68 +12,42 @@
   <tr>
     <td><a href="#array">🧱 Array</a></td>
     <td><a href="#backtracking">🔙 BackTracking</a></td>
-    <td><a href="#bitmanipulation">0️⃣ BitManipulation</a></td>
+    <td><a href="#binarysearch">🔍 BinarySearch</a></td>
   </tr>
   <tr>
+    <td><a href="#bitmanipulation">0️⃣ BitManipulation</a></td>
     <td><a href="#dynamicprogramming">⚡ DynamicProgramming</a></td>
     <td><a href="#hashtable">🗄️ HashTable</a></td>
-    <td><a href="#linkedlist">🔗 LinkedList</a></td>
   </tr>
   <tr>
+    <td><a href="#linkedlist">🔗 LinkedList</a></td>
     <td><a href="#math">🧮 Math</a></td>
     <td><a href="#slidingwindow">🪟 SlidingWindow</a></td>
-    <td><a href="#stack">🥞 Stack</a></td>
   </tr>
   <tr>
+    <td><a href="#stack">🥞 Stack</a></td>
     <td><a href="#string">🧵 String</a></td>
     <td><a href="#tree">🌲 Tree</a></td>
-    <td><a href="#twopointers">✌️ TwoPointers</a></td>
   </tr>
   <tr>
+    <td><a href="#twopointers">✌️ TwoPointers</a></td>
     <td><a href="#uncategorized">🔹 Uncategorized</a></td>
-    <td></td>
     <td></td>
   </tr>
 </table>
 <br/>
-
 ## <a id="array"></a>🧱 Array
 | Problem | Difficulty |
 | ------- | ---------- |
-| [0704 - BinarySearch](Topics/Array/BinarySearch) | Easy |
-| [1232 - CheckIfItIsaStraightLine](Topics/Array/CheckIfItIsaStraightLine) | Easy |
-| [0039 - CombinationSum](Topics/Array/CombinationSum) | Medium |
-| [0040 - CombinationSumIi](Topics/Array/CombinationSumIi) | Medium |
-| [3701 - ComputeAlternatingSum](Topics/Array/ComputeAlternatingSum) | Easy |
 | [3925 - ConcatenateArrayWithReverse](Topics/Array/ConcatenateArrayWithReverse) | Easy |
 | [3875 - ConstructUniformParityArrayI](Topics/Array/ConstructUniformParityArrayI) | Easy |
-| [3895 - CountDigitAppearances](Topics/Array/CountDigitAppearances) | Medium |
-| [2044 - CountNumberofMaximumBitwiseORSubsets](Topics/Array/CountNumberofMaximumBitwiseORSubsets) | Medium |
-| [2824 - CountPairsWhoseSumisLessthanTarget](Topics/Array/CountPairsWhoseSumisLessthanTarget) | Easy |
-| [3432 - CountPartitionswithEvenSumDifference](Topics/Array/CountPartitionswithEvenSumDifference) | Easy |
-| [1684 - CounttheNumberofConsistentStrings](Topics/Array/CounttheNumberofConsistentStrings) | Easy |
-| [0034 - FindFirstAndLastPositionOfElementInSortedArray](Topics/Array/FindFirstAndLastPositionOfElementInSortedArray) | Medium |
-| [3190 - FindMinimumOperationstoMakeAllElementsDivisiblebyThree](Topics/Array/FindMinimumOperationstoMakeAllElementsDivisiblebyThree) | Easy |
-| [2433 - FindTheOriginalArrayofPrefixXor](Topics/Array/FindTheOriginalArrayofPrefixXor) | Medium |
 | [2942 - FindWordsContainingCharacter](Topics/Array/FindWordsContainingCharacter) | Easy |
-| [2094 - Finding3DigitEvenNumbers](Topics/Array/Finding3DigitEvenNumbers) | Easy |
-| [2657 - FindthePrefixCommonArrayofTwoArrays](Topics/Array/FindthePrefixCommonArrayofTwoArrays) | Medium |
-| [0500 - KeyboardRow](Topics/Array/KeyboardRow) | Easy |
 | [1431 - KidsWithTheGreatestNumberOfCandies](Topics/Array/KidsWithTheGreatestNumberOfCandies) | Easy |
 | [2373 - LargestLocalValuesinaMatrix](Topics/Array/LargestLocalValuesinaMatrix) | Easy |
-| [0088 - MergeSortedArray](Topics/Array/MergeSortedArray) | Easy |
-| [0064 - MinimumPathSum](Topics/Array/MinimumPathSum) | Medium |
-| [0051 - NQueens](Topics/Array/NQueens) | Hard |
-| [NextGreaterElementII](Topics/Array/NextGreaterElementII) | Medium |
-| [2161 - PartitionArrayAccordingtoGivenPivot](Topics/Array/PartitionArrayAccordingtoGivenPivot) | Medium |
 | [0118 - PascalsTriangle](Topics/Array/PascalsTriangle) | Easy |
 | [3668 - RestoreFinishingOrder](Topics/Array/RestoreFinishingOrder) | Easy |
-| [0033 - SearchInRotatedSortedArray](Topics/Array/SearchInRotatedSortedArray) | Medium |
 | [1260 - Shift2DGrid](Topics/Array/Shift2DGrid) | Easy |
 | [0054 - SpiralMatrix](Topics/Array/SpiralMatrix) | Medium |
-| [0090 - SubsetsII](Topics/Array/SubsetsII) | Medium |
-| [0037 - SudokuSolver](Topics/Array/SudokuSolver) | Hard |
-| [3289 - TheTwoSneakyNumbersofDigitville](Topics/Array/TheTwoSneakyNumbersofDigitville) | Easy |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 
 ## <a id="backtracking"></a>🔙 BackTracking
@@ -81,30 +55,50 @@
 | ------- | ---------- |
 | [Backtracking](Topics/BackTracking/Backtracking) | Medium |
 | [BinaryWatch](Topics/BackTracking/BinaryWatch) | Medium |
+| [CombinationSum](Topics/BackTracking/CombinationSum) | Medium |
+| [CombinationSumIi](Topics/BackTracking/CombinationSumIi) | Medium |
+| [CountNumberofMaximumBitwiseORSubsets](Topics/BackTracking/CountNumberofMaximumBitwiseORSubsets) | Medium |
 | [3211 - GenerateBinaryStringsWithoutAdjacentZeros](Topics/BackTracking/GenerateBinaryStringsWithoutAdjacentZeros) | Medium |
+| [GenerateParentheses](Topics/BackTracking/GenerateParentheses) | Medium |
+| [NQueens](Topics/BackTracking/NQueens) | Hard |
+| [SubsetsII](Topics/BackTracking/SubsetsII) | Medium |
+| [SudokuSolver](Topics/BackTracking/SudokuSolver) | Hard |
 | [1863 - SumofAllSubsetXORTotals](Topics/BackTracking/SumofAllSubsetXORTotals) | Easy |
+
+## <a id="binarysearch"></a>🔍 BinarySearch
+| Problem | Difficulty |
+| ------- | ---------- |
+| [BinarySearch](Topics/BinarySearch/BinarySearch) | Medium |
+| [FindFirstAndLastPositionOfElementInSortedArray](Topics/BinarySearch/FindFirstAndLastPositionOfElementInSortedArray) | Medium |
+| [SearchInRotatedSortedArray](Topics/BinarySearch/SearchInRotatedSortedArray) | Medium |
 
 ## <a id="bitmanipulation"></a>0️⃣ BitManipulation
 | Problem | Difficulty |
 | ------- | ---------- |
+| [FindTheOriginalArrayofPrefixXor](Topics/BitManipulation/FindTheOriginalArrayofPrefixXor) | Medium |
 | [2220 - MinimumBitFlipstoConvertNumber](Topics/BitManipulation/MinimumBitFlipstoConvertNumber) | Easy |
 | [0476 - NumberComplement](Topics/BitManipulation/NumberComplement) | Easy |
 
 ## <a id="dynamicprogramming"></a>⚡ DynamicProgramming
 | Problem | Difficulty |
 | ------- | ---------- |
+| [MinimumPathSum](Topics/DynamicProgramming/MinimumPathSum) | Medium |
 | [0062 - UniquePaths](Topics/DynamicProgramming/UniquePaths) | Medium |
 
 ## <a id="hashtable"></a>🗄️ HashTable
 | Problem | Difficulty |
 | ------- | ---------- |
+| [CounttheNumberofConsistentStrings](Topics/HashTable/CounttheNumberofConsistentStrings) | Easy |
 | [0442 - FindAllDuplicatesInAnArray](Topics/HashTable/FindAllDuplicatesInAnArray) | Medium |
 | [0448 - FindAllNumbersDisappearedInAnArray](Topics/HashTable/FindAllNumbersDisappearedInAnArray) | Easy |
 | [3541 - FindMostFrequentVowelandConsonant](Topics/HashTable/FindMostFrequentVowelandConsonant) | Easy |
-| [0141 - LinkedListCycle](Topics/HashTable/LinkedListCycle) | Easy |
+| [Finding3DigitEvenNumbers](Topics/HashTable/Finding3DigitEvenNumbers) | Easy |
+| [FindthePrefixCommonArrayofTwoArrays](Topics/HashTable/FindthePrefixCommonArrayofTwoArrays) | Medium |
+| [KeyboardRow](Topics/HashTable/KeyboardRow) | Easy |
 | [0003 - LongestSubstringWithoutRepeatingCharacters](Topics/HashTable/LongestSubstringWithoutRepeatingCharacters) | Medium |
 | [3718 - SmallestMissingMultipleOfK](Topics/HashTable/SmallestMissingMultipleOfK) | Easy |
 | [2418 - SortThePeople](Topics/HashTable/SortThePeople) | Easy |
+| [TheTwoSneakyNumbersofDigitville](Topics/HashTable/TheTwoSneakyNumbersofDigitville) | Easy |
 
 ## <a id="linkedlist"></a>🔗 LinkedList
 | Problem | Difficulty |
@@ -121,10 +115,15 @@
 | Problem | Difficulty |
 | ------- | ---------- |
 | [2235 - AddTwoIntegers](Topics/Math/AddTwoIntegers) | Easy |
+| [CheckIfItIsaStraightLine](Topics/Math/CheckIfItIsaStraightLine) | Easy |
+| [ComputeAlternatingSum](Topics/Math/ComputeAlternatingSum) | Easy |
 | [0492 - ConstructtheRectangle](Topics/Math/ConstructtheRectangle) | Easy |
 | [3280 - ConvertDatetoBinary](Topics/Math/ConvertDatetoBinary) | Easy |
+| [CountDigitAppearances](Topics/Math/CountDigitAppearances) | Medium |
+| [CountPartitionswithEvenSumDifference](Topics/Math/CountPartitionswithEvenSumDifference) | Easy |
 | [2894 - DivisibleandNondivisibleSumsDifference](Topics/Math/DivisibleandNondivisibleSumsDifference) | Easy |
 | [3516 - FindClosestPerson](Topics/Math/FindClosestPerson) | Easy |
+| [FindMinimumOperationstoMakeAllElementsDivisiblebyThree](Topics/Math/FindMinimumOperationstoMakeAllElementsDivisiblebyThree) | Easy |
 | [3300 - MinimumElementAfterReplacementWithDigitSum](Topics/Math/MinimumElementAfterReplacementWithDigitSum) | Easy *** |
 | [3783 - MirrorDistanceofanInteger](Topics/Math/MirrorDistanceofanInteger) | Easy |
 | [0836 - RectangleOverlap](Topics/Math/RectangleOverlap) | Easy |
@@ -144,23 +143,22 @@
 | [0739 - DailyTemperatures](Topics/Stack/DailyTemperatures) | Medium |
 | [0394 - DecodeString](Topics/Stack/DecodeString) | Medium |
 | [0150 - EvaluateReversePolishNotation](Topics/Stack/EvaluateReversePolishNotation) | Medium |
+| [LongestValidParentheses](Topics/Stack/LongestValidParentheses) | Hard |
 | [0155 - MinStack](Topics/Stack/MinStack) | Medium |
 | [0503 - NextGreaterElementII](Topics/Stack/NextGreaterElementII) | Medium |
 | [0071 - SimplifyPath](Topics/Stack/SimplifyPath) | Medium |
+| [ValidParentheses](Topics/Stack/ValidParentheses) | Easy |
 
 ## <a id="string"></a>🧵 String
 | Problem | Difficulty |
 | ------- | ---------- |
 | [GenerateBinaryStringsWithoutAdjacentZeros](Topics/String/GenerateBinaryStringsWithoutAdjacentZeros) | Medium |
-| [0022 - GenerateParentheses](Topics/String/GenerateParentheses) | Medium |
 | [1678 - GoalParserInterpretation](Topics/String/GoalParserInterpretation) | Easy |
 | [0482 - LicenseKeyFormatting](Topics/String/LicenseKeyFormatting) | Easy |
-| [0032 - LongestValidParentheses](Topics/String/LongestValidParentheses) | Hard |
 | [3498 - ReverseDegreeofaString](Topics/String/ReverseDegreeofaString) | Easy |
 | [0541 - ReverseStringII](Topics/String/ReverseStringII) | Easy |
 | [0557 - ReverseWordsinaStringIII](Topics/String/ReverseWordsinaStringIII) | Easy |
 | [1221 - SplitaStringinBalancedStrings](Topics/String/SplitaStringinBalancedStrings) | Easy |
-| [0020 - ValidParentheses](Topics/String/ValidParentheses) | Easy |
 
 ## <a id="tree"></a>🌲 Tree
 | Problem | Difficulty |
@@ -170,6 +168,9 @@
 ## <a id="twopointers"></a>✌️ TwoPointers
 | Problem | Difficulty |
 | ------- | ---------- |
+| [CountPairsWhoseSumisLessthanTarget](Topics/TwoPointers/CountPairsWhoseSumisLessthanTarget) | Easy |
+| [MergeSortedArray](Topics/TwoPointers/MergeSortedArray) | Medium |
+| [PartitionArrayAccordingtoGivenPivot](Topics/TwoPointers/PartitionArrayAccordingtoGivenPivot) | Medium |
 | [3794 - ReverseStringPrefix](Topics/TwoPointers/ReverseStringPrefix) | Easy |
 
 ## <a id="uncategorized"></a>🔹 Uncategorized
