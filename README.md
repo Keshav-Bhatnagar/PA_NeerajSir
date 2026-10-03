@@ -193,3 +193,9 @@
 | Problem | Difficulty |
 | ------- | ---------- |
 | [3541 - FindMostFrequentVowelandConsonant](Topics/HashTable/FindMostFrequentVowelandConsonant) | Easy |
+
+
+## BackTracking
+| Problem | Difficulty |
+| ------- | ---------- |
+| [3211 - GenerateBinaryStringsWithoutAdjacentZeros](Topics/BackTracking/GenerateBinaryStringsWithoutAdjacentZeros) | Medium |
