@@ -156,6 +156,8 @@
 | [0022 - GenerateParentheses](Topics/String/GenerateParentheses) | Medium |
 | [1678 - GoalParserInterpretation](Topics/String/GoalParserInterpretation) | Easy |
 | [0032 - LongestValidParentheses](Topics/String/LongestValidParentheses) | Hard |
+| [3211 - GenerateBinaryStringsWithoutAdjacentZeros](Topics/String/GenerateBinaryStringsWithoutAdjacentZeros) | Medium |
+
 
 
 
