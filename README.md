@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-87-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-88-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -11,32 +11,36 @@
 <table>
   <tr>
     <td><a href="#array">Array</a></td>
+    <td><a href="#arrays">Arrays</a></td>
     <td><a href="#backtracking">BackTracking</a></td>
-    <td><a href="#backtracking">Backtracking</a></td>
   </tr>
   <tr>
+    <td><a href="#backtracking">Backtracking</a></td>
     <td><a href="#binarysearch">BinarySearch</a></td>
     <td><a href="#bitmanipulation">BitManipulation</a></td>
-    <td><a href="#dynamicprogramming">DynamicProgramming</a></td>
   </tr>
   <tr>
+    <td><a href="#dynamicprogramming">DynamicProgramming</a></td>
     <td><a href="#hashtable">HashTable</a></td>
     <td><a href="#linkedlist">LinkedList</a></td>
-    <td><a href="#math">Math</a></td>
   </tr>
   <tr>
+    <td><a href="#math">Math</a></td>
     <td><a href="#slidingwindow">SlidingWindow</a></td>
     <td><a href="#stack">Stack</a></td>
-    <td><a href="#string">String</a></td>
   </tr>
   <tr>
+    <td><a href="#string">String</a></td>
     <td><a href="#tree">Tree</a></td>
     <td><a href="#twopointers">TwoPointers</a></td>
+  </tr>
+  <tr>
     <td><a href="#uncategorized">Uncategorized</a></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 <br/>
-
 ## <a id="array"></a>Array
 | Problem | Difficulty |
 | ------- | ---------- |
@@ -50,6 +54,11 @@
 | [1260 - Shift2DGrid](Topics/Array/Shift2DGrid) | Easy |
 | [0054 - SpiralMatrix](Topics/Array/SpiralMatrix) | Medium |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
+
+## <a id="arrays"></a>Arrays
+| Problem | Difficulty |
+| ------- | ---------- |
+| [2391 - MinimumAmountofTimetoCollectGarbage](Topics/Arrays/MinimumAmountofTimetoCollectGarbage) | Medium |
 
 ## <a id="backtracking"></a>BackTracking
 | Problem | Difficulty |
@@ -184,10 +193,3 @@
 | ------- | ---------- |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
-
-
-## Arrays
-
-| Problem | Difficulty |
-| :--- | :--- |
-| [2391 - MinimumAmountofTimetoCollectGarbage](Topics/Arrays/MinimumAmountofTimetoCollectGarbage) | Medium |
