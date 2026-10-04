@@ -180,3 +180,10 @@
 | ------- | ---------- |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
+
+
+## SlidingWindow
+
+| Problem | Difficulty |
+| :--- | :--- |
+| [3427 - SumofVariableLengthSubarrays](Topics/SlidingWindow/SumofVariableLengthSubarrays) | Easy |
