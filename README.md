@@ -184,3 +184,10 @@
 | ------- | ---------- |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
+
+
+## Arrays
+
+| Problem | Difficulty |
+| :--- | :--- |
+| [2391 - MinimumAmountofTimetoCollectGarbage](Topics/Arrays/MinimumAmountofTimetoCollectGarbage) | Medium |
