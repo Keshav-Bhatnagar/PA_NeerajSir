@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-88-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-89-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -41,7 +41,6 @@
   </tr>
 </table>
 <br/>
-
 ## <a id="array"></a>Array
 | Problem | Difficulty |
 | ------- | ---------- |
@@ -175,6 +174,7 @@
 | [0541 - ReverseStringII](Topics/String/ReverseStringII) | Easy |
 | [0557 - ReverseWordsinaStringIII](Topics/String/ReverseWordsinaStringIII) | Easy |
 | [1221 - SplitaStringinBalancedStrings](Topics/String/SplitaStringinBalancedStrings) | Easy |
+| [0678 - ValidParenthesisString](Topics/String/ValidParenthesisString) | Medium |
 
 ## <a id="tree"></a>Tree
 | Problem | Difficulty |
@@ -194,10 +194,3 @@
 | ------- | ---------- |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
-
-## String
-
-| Problem | Difficulty |
-| :--- | :--- |
-| [0678 - ValidParenthesisString](Topics/String/ValidParenthesisString) | Medium |
-
