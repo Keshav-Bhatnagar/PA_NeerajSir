@@ -194,3 +194,10 @@
 | ------- | ---------- |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
+
+## String
+
+| Problem | Difficulty |
+| :--- | :--- |
+| [0678 - ValidParenthesisString](Topics/String/ValidParenthesisString) | Medium |
+
