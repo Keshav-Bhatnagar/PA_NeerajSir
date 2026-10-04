@@ -194,3 +194,10 @@
 | ------- | ---------- |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
+
+## Hash Table
+
+| Problem | Difficulty |
+| :--- | :--- |
+| [3146 - PermutationDifferencebetweenTwoStrings](Topics/HashTable/PermutationDifferencebetweenTwoStrings) | Easy |
+
