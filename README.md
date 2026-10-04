@@ -3,41 +3,39 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-86-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-87-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
-
 ## 📑 Table of Contents
 <table>
   <tr>
     <td><a href="#array">Array</a></td>
     <td><a href="#backtracking">BackTracking</a></td>
-    <td><a href="#binarysearch">BinarySearch</a></td>
+    <td><a href="#backtracking">Backtracking</a></td>
   </tr>
   <tr>
+    <td><a href="#binarysearch">BinarySearch</a></td>
     <td><a href="#bitmanipulation">BitManipulation</a></td>
     <td><a href="#dynamicprogramming">DynamicProgramming</a></td>
-    <td><a href="#hashtable">HashTable</a></td>
   </tr>
   <tr>
+    <td><a href="#hashtable">HashTable</a></td>
     <td><a href="#linkedlist">LinkedList</a></td>
     <td><a href="#math">Math</a></td>
-    <td><a href="#slidingwindow">SlidingWindow</a></td>
   </tr>
   <tr>
+    <td><a href="#slidingwindow">SlidingWindow</a></td>
     <td><a href="#stack">Stack</a></td>
     <td><a href="#string">String</a></td>
-    <td><a href="#tree">Tree</a></td>
   </tr>
   <tr>
+    <td><a href="#tree">Tree</a></td>
     <td><a href="#twopointers">TwoPointers</a></td>
     <td><a href="#uncategorized">Uncategorized</a></td>
-    <td></td>
   </tr>
 </table>
 <br/>
-
 ## <a id="array"></a>Array
 | Problem | Difficulty |
 | ------- | ---------- |
@@ -55,8 +53,6 @@
 ## <a id="backtracking"></a>BackTracking
 | Problem | Difficulty |
 | ------- | ---------- |
-| [Backtracking](Topics/BackTracking/Backtracking) | Medium |
-| [BinaryWatch](Topics/BackTracking/BinaryWatch) | Medium |
 | [CombinationSum](Topics/BackTracking/CombinationSum) | Medium |
 | [CombinationSumIi](Topics/BackTracking/CombinationSumIi) | Medium |
 | [CountNumberofMaximumBitwiseORSubsets](Topics/BackTracking/CountNumberofMaximumBitwiseORSubsets) | Medium |
@@ -66,6 +62,12 @@
 | [SubsetsII](Topics/BackTracking/SubsetsII) | Medium |
 | [SudokuSolver](Topics/BackTracking/SudokuSolver) | Hard |
 | [1863 - SumofAllSubsetXORTotals](Topics/BackTracking/SumofAllSubsetXORTotals) | Easy |
+
+## <a id="backtracking"></a>Backtracking
+| Problem | Difficulty |
+| ------- | ---------- |
+| [Backtracking](Topics/Backtracking/Backtracking) | Medium |
+| [BinaryWatch](Topics/Backtracking/BinaryWatch) | Medium |
 
 ## <a id="binarysearch"></a>BinarySearch
 | Problem | Difficulty |
@@ -137,6 +139,7 @@
 | Problem | Difficulty |
 | ------- | ---------- |
 | [0209 - MinimumSizeSubarraySum](Topics/SlidingWindow/MinimumSizeSubarraySum) | Medium |
+| [3427 - SumofVariableLengthSubarrays](Topics/SlidingWindow/SumofVariableLengthSubarrays) | Easy |
 
 ## <a id="stack"></a>Stack
 | Problem | Difficulty |
@@ -180,10 +183,3 @@
 | ------- | ---------- |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
-
-
-## SlidingWindow
-
-| Problem | Difficulty |
-| :--- | :--- |
-| [3427 - SumofVariableLengthSubarrays](Topics/SlidingWindow/SumofVariableLengthSubarrays) | Easy |
