@@ -195,3 +195,10 @@
 | ------- | ---------- |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
+
+## BitwiseManipulation
+
+| Problem | Difficulty |
+| :--- | :--- |
+| [1720 - DecodeXORedArray](Topics/BitwiseManipulation/DecodeXORedArray) | Easy |
+
