@@ -167,6 +167,7 @@
 | [2413 - SmallestEvenMultiple](Topics/Math/SmallestEvenMultiple) | Easy |
 | [0495 - TeemoAttacking](Topics/Math/TeemoAttacking) | Easy |
 | [1486 - XOROperationinanArray](Topics/Math/XOROperationinanArray) | Easy |
+| [1637 - WidestVerticalAreaBetweenTwoPointsContainingNoPoints](Topics/Math/WidestVerticalAreaBetweenTwoPointsContainingNoPoints) | Easy |
 
 ## Queue
 | Problem | Difficulty |
