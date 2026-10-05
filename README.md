@@ -16,34 +16,34 @@
     <td><a href="#backtracking">BackTracking</a></td>
   </tr>
   <tr>
-    <td><a href="#backtracking">Backtracking</a></td>
     <td><a href="#binarysearch">BinarySearch</a></td>
     <td><a href="#bitmanipulation">BitManipulation</a></td>
+    <td><a href="#bitwisemanipulation">BitwiseManipulation</a></td>
   </tr>
   <tr>
-    <td><a href="#bitwisemanipulation">BitwiseManipulation</a></td>
     <td><a href="#dynamicprogramming">DynamicProgramming</a></td>
     <td><a href="#hashtable">HashTable</a></td>
+    <td><a href="#linkedlist">LinkedList</a></td>
   </tr>
   <tr>
-    <td><a href="#linkedlist">LinkedList</a></td>
     <td><a href="#math">Math</a></td>
     <td><a href="#slidingwindow">SlidingWindow</a></td>
+    <td><a href="#stack">Stack</a></td>
   </tr>
   <tr>
-    <td><a href="#stack">Stack</a></td>
     <td><a href="#string">String</a></td>
     <td><a href="#tree">Tree</a></td>
+    <td><a href="#twopointers">TwoPointers</a></td>
   </tr>
   <tr>
-    <td><a href="#twopointers">TwoPointers</a></td>
     <td><a href="#uncategorized">Uncategorized</a></td>
+    <td></td>
     <td></td>
   </tr>
 </table>
 <br/>
 
-## <a id="array"></a>Array
+## Array
 | Problem | Difficulty |
 | ------- | ---------- |
 | [3925 - ConcatenateArrayWithReverse](Topics/Array/ConcatenateArrayWithReverse) | Easy |
@@ -57,14 +57,16 @@
 | [0054 - SpiralMatrix](Topics/Array/SpiralMatrix) | Medium |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 
-## <a id="arrays"></a>Arrays
+## Arrays
 | Problem | Difficulty |
 | ------- | ---------- |
 | [2391 - MinimumAmountofTimetoCollectGarbage](Topics/Arrays/MinimumAmountofTimetoCollectGarbage) | Medium |
 
-## <a id="backtracking"></a>BackTracking
+## BackTracking
 | Problem | Difficulty |
 | ------- | ---------- |
+| [Backtracking](Topics/BackTracking/Backtracking) | Medium |
+| [BinaryWatch](Topics/BackTracking/BinaryWatch) | Medium |
 | [CombinationSum](Topics/BackTracking/CombinationSum) | Medium |
 | [CombinationSumIi](Topics/BackTracking/CombinationSumIi) | Medium |
 | [CountNumberofMaximumBitwiseORSubsets](Topics/BackTracking/CountNumberofMaximumBitwiseORSubsets) | Medium |
@@ -75,38 +77,32 @@
 | [SudokuSolver](Topics/BackTracking/SudokuSolver) | Hard |
 | [1863 - SumofAllSubsetXORTotals](Topics/BackTracking/SumofAllSubsetXORTotals) | Easy |
 
-## <a id="backtracking"></a>Backtracking
-| Problem | Difficulty |
-| ------- | ---------- |
-| [Backtracking](Topics/Backtracking/Backtracking) | Medium |
-| [BinaryWatch](Topics/Backtracking/BinaryWatch) | Medium |
-
-## <a id="binarysearch"></a>BinarySearch
+## BinarySearch
 | Problem | Difficulty |
 | ------- | ---------- |
 | [BinarySearch](Topics/BinarySearch/BinarySearch) | Medium |
 | [FindFirstAndLastPositionOfElementInSortedArray](Topics/BinarySearch/FindFirstAndLastPositionOfElementInSortedArray) | Medium |
 | [SearchInRotatedSortedArray](Topics/BinarySearch/SearchInRotatedSortedArray) | Medium |
 
-## <a id="bitmanipulation"></a>BitManipulation
+## BitManipulation
 | Problem | Difficulty |
 | ------- | ---------- |
 | [FindTheOriginalArrayofPrefixXor](Topics/BitManipulation/FindTheOriginalArrayofPrefixXor) | Medium |
 | [2220 - MinimumBitFlipstoConvertNumber](Topics/BitManipulation/MinimumBitFlipstoConvertNumber) | Easy |
 | [0476 - NumberComplement](Topics/BitManipulation/NumberComplement) | Easy |
 
-## <a id="bitwisemanipulation"></a>BitwiseManipulation
+## BitwiseManipulation
 | Problem | Difficulty |
 | ------- | ---------- |
 | [1720 - DecodeXORedArray](Topics/BitwiseManipulation/DecodeXORedArray) | Easy |
 
-## <a id="dynamicprogramming"></a>DynamicProgramming
+## DynamicProgramming
 | Problem | Difficulty |
 | ------- | ---------- |
 | [MinimumPathSum](Topics/DynamicProgramming/MinimumPathSum) | Medium |
 | [0062 - UniquePaths](Topics/DynamicProgramming/UniquePaths) | Medium |
 
-## <a id="hashtable"></a>HashTable
+## HashTable
 | Problem | Difficulty |
 | ------- | ---------- |
 | [CounttheNumberofConsistentStrings](Topics/HashTable/CounttheNumberofConsistentStrings) | Easy |
@@ -122,7 +118,7 @@
 | [2418 - SortThePeople](Topics/HashTable/SortThePeople) | Easy |
 | [TheTwoSneakyNumbersofDigitville](Topics/HashTable/TheTwoSneakyNumbersofDigitville) | Easy |
 
-## <a id="linkedlist"></a>LinkedList
+## LinkedList
 | Problem | Difficulty |
 | ------- | ---------- |
 | [0002 - AddTwoNumbers](Topics/LinkedList/AddTwoNumbers) | Medium |
@@ -133,7 +129,7 @@
 | [0086 - PartitionList](Topics/LinkedList/PartitionList) | Medium |
 | [0025 - ReverseNodesInKGroup](Topics/LinkedList/ReverseNodesInKGroup) | Hard |
 
-## <a id="math"></a>Math
+## Math
 | Problem | Difficulty |
 | ------- | ---------- |
 | [2235 - AddTwoIntegers](Topics/Math/AddTwoIntegers) | Easy |
@@ -153,13 +149,13 @@
 | [0495 - TeemoAttacking](Topics/Math/TeemoAttacking) | Easy |
 | [1486 - XOROperationinanArray](Topics/Math/XOROperationinanArray) | Easy |
 
-## <a id="slidingwindow"></a>SlidingWindow
+## SlidingWindow
 | Problem | Difficulty |
 | ------- | ---------- |
 | [0209 - MinimumSizeSubarraySum](Topics/SlidingWindow/MinimumSizeSubarraySum) | Medium |
 | [3427 - SumofVariableLengthSubarrays](Topics/SlidingWindow/SumofVariableLengthSubarrays) | Easy |
 
-## <a id="stack"></a>Stack
+## Stack
 | Problem | Difficulty |
 | ------- | ---------- |
 | [0735 - AsteroidCollision](Topics/Stack/AsteroidCollision) | Medium |
@@ -172,7 +168,7 @@
 | [0071 - SimplifyPath](Topics/Stack/SimplifyPath) | Medium |
 | [ValidParentheses](Topics/Stack/ValidParentheses) | Easy |
 
-## <a id="string"></a>String
+## String
 | Problem | Difficulty |
 | ------- | ---------- |
 | [GenerateBinaryStringsWithoutAdjacentZeros](Topics/String/GenerateBinaryStringsWithoutAdjacentZeros) | Medium |
@@ -184,12 +180,12 @@
 | [1221 - SplitaStringinBalancedStrings](Topics/String/SplitaStringinBalancedStrings) | Easy |
 | [0678 - ValidParenthesisString](Topics/String/ValidParenthesisString) | Medium |
 
-## <a id="tree"></a>Tree
+## Tree
 | Problem | Difficulty |
 | ------- | ---------- |
 | [0938 - RangeSumofBST](Topics/Tree/RangeSumofBST) | Easy |
 
-## <a id="twopointers"></a>TwoPointers
+## TwoPointers
 | Problem | Difficulty |
 | ------- | ---------- |
 | [CountPairsWhoseSumisLessthanTarget](Topics/TwoPointers/CountPairsWhoseSumisLessthanTarget) | Easy |
@@ -197,7 +193,7 @@
 | [PartitionArrayAccordingtoGivenPivot](Topics/TwoPointers/PartitionArrayAccordingtoGivenPivot) | Medium |
 | [3794 - ReverseStringPrefix](Topics/TwoPointers/ReverseStringPrefix) | Easy |
 
-## <a id="uncategorized"></a>Uncategorized
+## Uncategorized
 | Problem | Difficulty |
 | ------- | ---------- |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |

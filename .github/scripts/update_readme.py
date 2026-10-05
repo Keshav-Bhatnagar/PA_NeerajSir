@@ -71,6 +71,7 @@ def main():
     new_readme.append('  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">')
     new_readme.append('</div>')
     new_readme.append('<br/>')
+    new_readme.append('')
 
     # Table of Contents (Grid format)
     new_readme.append('## 📑 Table of Contents')
@@ -91,13 +92,11 @@ def main():
         new_readme.append('  </tr>')
     new_readme.append('</table>')
     new_readme.append('<br/>')
+    new_readme.append('')
 
-    # Category Tables with bulletproof anchors
+    # Category Tables
     for category, problems in topics.items():
-        anchor = category.lower().replace(' ', '-')
-        
-        # Injecting anchor tag directly so the TOC link is guaranteed to work
-        new_readme.append(f'## <a id="{anchor}"></a>{category}')
+        new_readme.append(f'## {category}')
         new_readme.append('| Problem | Difficulty |')
         new_readme.append('| ------- | ---------- |')
         for display_name, rel_path, difficulty in problems:
