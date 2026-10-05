@@ -7,6 +7,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
+
 ## 📑 Table of Contents
 <table>
   <tr>
@@ -41,6 +42,7 @@
   </tr>
 </table>
 <br/>
+
 ## <a id="array"></a>Array
 | Problem | Difficulty |
 | ------- | ---------- |
