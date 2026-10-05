@@ -179,6 +179,7 @@
 | [0557 - ReverseWordsinaStringIII](Topics/String/ReverseWordsinaStringIII) | Easy |
 | [1221 - SplitaStringinBalancedStrings](Topics/String/SplitaStringinBalancedStrings) | Easy |
 | [0678 - ValidParenthesisString](Topics/String/ValidParenthesisString) | Medium |
+| [0856 - ScoreofParentheses](Topics/String/ScoreofParentheses) | Medium |
 
 ## Tree
 | Problem | Difficulty |
