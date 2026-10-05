@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-91-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-92-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -16,28 +16,28 @@
     <td><a href="#backtracking">BackTracking</a></td>
   </tr>
   <tr>
+    <td><a href="#backtracking">Backtracking</a></td>
     <td><a href="#binarysearch">BinarySearch</a></td>
     <td><a href="#bitmanipulation">BitManipulation</a></td>
-    <td><a href="#bitwisemanipulation">BitwiseManipulation</a></td>
   </tr>
   <tr>
+    <td><a href="#bitwisemanipulation">BitwiseManipulation</a></td>
     <td><a href="#dynamicprogramming">DynamicProgramming</a></td>
     <td><a href="#hashtable">HashTable</a></td>
-    <td><a href="#linkedlist">LinkedList</a></td>
   </tr>
   <tr>
+    <td><a href="#linkedlist">LinkedList</a></td>
     <td><a href="#math">Math</a></td>
     <td><a href="#slidingwindow">SlidingWindow</a></td>
-    <td><a href="#stack">Stack</a></td>
   </tr>
   <tr>
+    <td><a href="#stack">Stack</a></td>
     <td><a href="#string">String</a></td>
     <td><a href="#tree">Tree</a></td>
-    <td><a href="#twopointers">TwoPointers</a></td>
   </tr>
   <tr>
+    <td><a href="#twopointers">TwoPointers</a></td>
     <td><a href="#uncategorized">Uncategorized</a></td>
-    <td></td>
     <td></td>
   </tr>
 </table>
@@ -65,8 +65,6 @@
 ## BackTracking
 | Problem | Difficulty |
 | ------- | ---------- |
-| [Backtracking](Topics/BackTracking/Backtracking) | Medium |
-| [BinaryWatch](Topics/BackTracking/BinaryWatch) | Medium |
 | [CombinationSum](Topics/BackTracking/CombinationSum) | Medium |
 | [CombinationSumIi](Topics/BackTracking/CombinationSumIi) | Medium |
 | [CountNumberofMaximumBitwiseORSubsets](Topics/BackTracking/CountNumberofMaximumBitwiseORSubsets) | Medium |
@@ -76,6 +74,12 @@
 | [SubsetsII](Topics/BackTracking/SubsetsII) | Medium |
 | [SudokuSolver](Topics/BackTracking/SudokuSolver) | Hard |
 | [1863 - SumofAllSubsetXORTotals](Topics/BackTracking/SumofAllSubsetXORTotals) | Easy |
+
+## Backtracking
+| Problem | Difficulty |
+| ------- | ---------- |
+| [Backtracking](Topics/Backtracking/Backtracking) | Medium |
+| [BinaryWatch](Topics/Backtracking/BinaryWatch) | Medium |
 
 ## BinarySearch
 | Problem | Difficulty |
@@ -177,9 +181,9 @@
 | [3498 - ReverseDegreeofaString](Topics/String/ReverseDegreeofaString) | Easy |
 | [0541 - ReverseStringII](Topics/String/ReverseStringII) | Easy |
 | [0557 - ReverseWordsinaStringIII](Topics/String/ReverseWordsinaStringIII) | Easy |
+| [0856 - ScoreofParentheses](Topics/String/ScoreofParentheses) | Medium |
 | [1221 - SplitaStringinBalancedStrings](Topics/String/SplitaStringinBalancedStrings) | Easy |
 | [0678 - ValidParenthesisString](Topics/String/ValidParenthesisString) | Medium |
-| [0856 - ScoreofParentheses](Topics/String/ScoreofParentheses) | Medium |
 
 ## Tree
 | Problem | Difficulty |
