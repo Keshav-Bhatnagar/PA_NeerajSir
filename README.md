@@ -219,3 +219,10 @@
 | ------- | ---------- |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
+
+## Design
+
+| Problem | Difficulty |
+| :--- | :--- |
+| [1603 - DesignParkingSystem](Topics/Design/DesignParkingSystem) | Easy |
+
