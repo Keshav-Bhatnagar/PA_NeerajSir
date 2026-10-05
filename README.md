@@ -203,3 +203,10 @@
 | ------- | ---------- |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
+
+## Queue
+
+| Problem | Difficulty |
+| :--- | :--- |
+| [0933 - NumberofRecentCalls](Topics/Queue/NumberofRecentCalls) | Easy |
+
