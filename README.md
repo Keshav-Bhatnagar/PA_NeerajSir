@@ -61,6 +61,7 @@
 | [1260 - Shift2DGrid](Topics/Array/Shift2DGrid) | Easy |
 | [0054 - SpiralMatrix](Topics/Array/SpiralMatrix) | Medium |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
+| [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
 
 ## Arrays
 | Problem | Difficulty |
