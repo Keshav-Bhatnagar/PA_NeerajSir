@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-92-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-93-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -28,17 +28,17 @@
   <tr>
     <td><a href="#linkedlist">LinkedList</a></td>
     <td><a href="#math">Math</a></td>
-    <td><a href="#slidingwindow">SlidingWindow</a></td>
+    <td><a href="#queue">Queue</a></td>
   </tr>
   <tr>
+    <td><a href="#slidingwindow">SlidingWindow</a></td>
     <td><a href="#stack">Stack</a></td>
     <td><a href="#string">String</a></td>
-    <td><a href="#tree">Tree</a></td>
   </tr>
   <tr>
+    <td><a href="#tree">Tree</a></td>
     <td><a href="#twopointers">TwoPointers</a></td>
     <td><a href="#uncategorized">Uncategorized</a></td>
-    <td></td>
   </tr>
 </table>
 <br/>
@@ -153,6 +153,11 @@
 | [0495 - TeemoAttacking](Topics/Math/TeemoAttacking) | Easy |
 | [1486 - XOROperationinanArray](Topics/Math/XOROperationinanArray) | Easy |
 
+## Queue
+| Problem | Difficulty |
+| ------- | ---------- |
+| [0933 - NumberofRecentCalls](Topics/Queue/NumberofRecentCalls) | Easy |
+
 ## SlidingWindow
 | Problem | Difficulty |
 | ------- | ---------- |
@@ -203,10 +208,3 @@
 | ------- | ---------- |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
-
-## Queue
-
-| Problem | Difficulty |
-| :--- | :--- |
-| [0933 - NumberofRecentCalls](Topics/Queue/NumberofRecentCalls) | Easy |
-
