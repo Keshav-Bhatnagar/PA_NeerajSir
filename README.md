@@ -157,6 +157,7 @@
 | Problem | Difficulty |
 | ------- | ---------- |
 | [0933 - NumberofRecentCalls](Topics/Queue/NumberofRecentCalls) | Easy |
+| [1700 - NumberofStudentsUnabletoEatLunch](Topics/Queue/NumberofStudentsUnabletoEatLunch) | Easy |
 
 ## SlidingWindow
 | Problem | Difficulty |
