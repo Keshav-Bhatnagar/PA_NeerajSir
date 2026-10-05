@@ -209,3 +209,10 @@
 | ------- | ---------- |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
+
+## HashMap
+
+| Problem | Difficulty |
+| :--- | :--- |
+| [1282 - GroupthePeopleGiventheGroupSizeTheyBelongTo](Topics/HashMap/GroupthePeopleGiventheGroupSizeTheyBelongTo) | Medium |
+
