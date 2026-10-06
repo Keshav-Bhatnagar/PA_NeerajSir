@@ -207,6 +207,7 @@
 | [0856 - ScoreofParentheses](Topics/String/ScoreofParentheses) | Medium |
 | [1221 - SplitaStringinBalancedStrings](Topics/String/SplitaStringinBalancedStrings) | Easy |
 | [0678 - ValidParenthesisString](Topics/String/ValidParenthesisString) | Medium |
+| [0921 - MinimumAddtoMakeParenthesesValid](Topics/String/MinimumAddtoMakeParenthesesValid) | Medium |
 
 ## Tree
 | Problem | Difficulty |
