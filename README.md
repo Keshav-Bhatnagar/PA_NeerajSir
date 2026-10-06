@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-100-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-101-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -208,8 +208,8 @@
 | [0557 - ReverseWordsinaStringIII](Topics/String/ReverseWordsinaStringIII) | Easy |
 | [0856 - ScoreofParentheses](Topics/String/ScoreofParentheses) | Medium |
 | [1221 - SplitaStringinBalancedStrings](Topics/String/SplitaStringinBalancedStrings) | Easy |
-| [0678 - ValidParenthesisString](Topics/String/ValidParenthesisString) | Medium |
 | [1415 - ThekthLexicographicalStringofAllHappyStringsofLengthn](Topics/String/ThekthLexicographicalStringofAllHappyStringsofLengthn) | Medium |
+| [0678 - ValidParenthesisString](Topics/String/ValidParenthesisString) | Medium |
 
 ## Tree
 | Problem | Difficulty |
