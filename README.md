@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-103-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-104-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -56,6 +56,7 @@
 | [3264 - FinalArrayStateAfterKMultiplicationOperationsI](Topics/Array/FinalArrayStateAfterKMultiplicationOperationsI) | Easy |
 | [3285 - FindIndicesofStableMountains](Topics/Array/FindIndicesofStableMountains) | Easy |
 | [2942 - FindWordsContainingCharacter](Topics/Array/FindWordsContainingCharacter) | Easy |
+| [3162 - FindtheNumberofGoodPairsI](Topics/Array/FindtheNumberofGoodPairsI) | Easy |
 | [1431 - KidsWithTheGreatestNumberOfCandies](Topics/Array/KidsWithTheGreatestNumberOfCandies) | Easy |
 | [2373 - LargestLocalValuesinaMatrix](Topics/Array/LargestLocalValuesinaMatrix) | Easy |
 | [2037 - MinimumNumberofMovestoSeatEveryone](Topics/Array/MinimumNumberofMovestoSeatEveryone) | Easy |
@@ -65,7 +66,6 @@
 | [0054 - SpiralMatrix](Topics/Array/SpiralMatrix) | Medium |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
-| [3162 - FindtheNumberofGoodPairsI](Topics/Array/FindtheNumberofGoodPairsI) | Easy |
 
 ## Arrays
 | Problem | Difficulty |
