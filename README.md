@@ -209,6 +209,7 @@
 | [0856 - ScoreofParentheses](Topics/String/ScoreofParentheses) | Medium |
 | [1221 - SplitaStringinBalancedStrings](Topics/String/SplitaStringinBalancedStrings) | Easy |
 | [0678 - ValidParenthesisString](Topics/String/ValidParenthesisString) | Medium |
+| [1415 - ThekthLexicographicalStringofAllHappyStringsofLengthn](Topics/String/ThekthLexicographicalStringofAllHappyStringsofLengthn) | Medium |
 
 ## Tree
 | Problem | Difficulty |
