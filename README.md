@@ -234,3 +234,10 @@
 | ------- | ---------- |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
+
+## Two Pointers
+
+| Problem | Difficulty |
+| :--- | :--- |
+| [2000 - ReversePrefixofWord](Topics/TwoPointers/ReversePrefixofWord) | Easy |
+
