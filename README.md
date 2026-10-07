@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-106-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-107-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -227,6 +227,7 @@
 | [CountPairsWhoseSumisLessthanTarget](Topics/TwoPointers/CountPairsWhoseSumisLessthanTarget) | Easy |
 | [MergeSortedArray](Topics/TwoPointers/MergeSortedArray) | Medium |
 | [PartitionArrayAccordingtoGivenPivot](Topics/TwoPointers/PartitionArrayAccordingtoGivenPivot) | Medium |
+| [2000 - ReversePrefixofWord](Topics/TwoPointers/ReversePrefixofWord) | Easy |
 | [3794 - ReverseStringPrefix](Topics/TwoPointers/ReverseStringPrefix) | Easy |
 
 ## Uncategorized
@@ -234,10 +235,3 @@
 | ------- | ---------- |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
-
-## Two Pointers
-
-| Problem | Difficulty |
-| :--- | :--- |
-| [2000 - ReversePrefixofWord](Topics/TwoPointers/ReversePrefixofWord) | Easy |
-
