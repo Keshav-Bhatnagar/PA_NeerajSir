@@ -68,6 +68,7 @@
 | [0054 - SpiralMatrix](Topics/Array/SpiralMatrix) | Medium |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
+| [0807 - MaxIncreasetoKeepCitySkyline](Topics/Array/MaxIncreasetoKeepCitySkyline) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
