@@ -180,6 +180,7 @@
 | [0495 - TeemoAttacking](Topics/Math/TeemoAttacking) | Easy |
 | [1637 - WidestVerticalAreaBetweenTwoPointsContainingNoPoints](Topics/Math/WidestVerticalAreaBetweenTwoPointsContainingNoPoints) | Easy |
 | [1486 - XOROperationinanArray](Topics/Math/XOROperationinanArray) | Easy |
+| [2520 - CounttheDigitsThatDivideaNumber](Topics/Math/CounttheDigitsThatDivideaNumber) | Easy |
 
 ## Queue
 | Problem | Difficulty |
