@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-108-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-109-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -209,6 +209,7 @@
 | [1678 - GoalParserInterpretation](Topics/String/GoalParserInterpretation) | Easy |
 | [0482 - LicenseKeyFormatting](Topics/String/LicenseKeyFormatting) | Easy |
 | [0921 - MinimumAddtoMakeParenthesesValid](Topics/String/MinimumAddtoMakeParenthesesValid) | Medium |
+| [1021 - RemoveOutermostParentheses](Topics/String/RemoveOutermostParentheses) | Easy |
 | [3498 - ReverseDegreeofaString](Topics/String/ReverseDegreeofaString) | Easy |
 | [0541 - ReverseStringII](Topics/String/ReverseStringII) | Easy |
 | [0557 - ReverseWordsinaStringIII](Topics/String/ReverseWordsinaStringIII) | Easy |
@@ -216,7 +217,6 @@
 | [1221 - SplitaStringinBalancedStrings](Topics/String/SplitaStringinBalancedStrings) | Easy |
 | [1415 - ThekthLexicographicalStringofAllHappyStringsofLengthn](Topics/String/ThekthLexicographicalStringofAllHappyStringsofLengthn) | Medium |
 | [0678 - ValidParenthesisString](Topics/String/ValidParenthesisString) | Medium |
-| [1021 - RemoveOutermostParentheses](Topics/String/RemoveOutermostParentheses) | Easy |
 
 ## Tree
 | Problem | Difficulty |
