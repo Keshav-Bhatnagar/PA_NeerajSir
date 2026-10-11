@@ -72,6 +72,7 @@
 | [2073 - TimeNeededtoBuyTickets](Topics/Array/TimeNeededtoBuyTickets) | Easy |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
+| [2778 - SumofSquaresofSpecialElements](Topics/Array/SumofSquaresofSpecialElements) | Easy |
 
 ## Arrays
 | Problem | Difficulty |
