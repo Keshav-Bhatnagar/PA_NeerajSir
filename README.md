@@ -76,6 +76,7 @@
 | [2073 - TimeNeededtoBuyTickets](Topics/Array/TimeNeededtoBuyTickets) | Easy |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
+| [0164 - MaximumGap](Topics/Array/MaximumGap) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
