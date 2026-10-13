@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-122-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-123-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -210,9 +210,9 @@
 | [LongestValidParentheses](Topics/Stack/LongestValidParentheses) | Hard |
 | [0155 - MinStack](Topics/Stack/MinStack) | Medium |
 | [0503 - NextGreaterElementII](Topics/Stack/NextGreaterElementII) | Medium |
+| [0901 - OnlineStockSpan](Topics/Stack/OnlineStockSpan) | Medium |
 | [0071 - SimplifyPath](Topics/Stack/SimplifyPath) | Medium |
 | [ValidParentheses](Topics/Stack/ValidParentheses) | Easy |
-| [0901 - OnlineStockSpan](Topics/Stack/OnlineStockSpan) | Medium |
 
 ## String
 | Problem | Difficulty |
