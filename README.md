@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-121-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-122-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -54,6 +54,7 @@
 | [3925 - ConcatenateArrayWithReverse](Topics/Array/ConcatenateArrayWithReverse) | Easy |
 | [3875 - ConstructUniformParityArrayI](Topics/Array/ConstructUniformParityArrayI) | Easy |
 | [2610 - ConvertanArrayIntoa2DArrayWithConditions](Topics/Array/ConvertanArrayIntoa2DArrayWithConditions) | Medium |
+| [0622 - DesignCircularQueue](Topics/Array/DesignCircularQueue) | Medium |
 | [3264 - FinalArrayStateAfterKMultiplicationOperationsI](Topics/Array/FinalArrayStateAfterKMultiplicationOperationsI) | Easy |
 | [3285 - FindIndicesofStableMountains](Topics/Array/FindIndicesofStableMountains) | Easy |
 | [2942 - FindWordsContainingCharacter](Topics/Array/FindWordsContainingCharacter) | Easy |
@@ -75,7 +76,6 @@
 | [2073 - TimeNeededtoBuyTickets](Topics/Array/TimeNeededtoBuyTickets) | Easy |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
-| [0622 - DesignCircularQueue](Topics/Array/DesignCircularQueue) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
