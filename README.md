@@ -212,6 +212,7 @@
 | [0503 - NextGreaterElementII](Topics/Stack/NextGreaterElementII) | Medium |
 | [0071 - SimplifyPath](Topics/Stack/SimplifyPath) | Medium |
 | [ValidParentheses](Topics/Stack/ValidParentheses) | Easy |
+| [0901 - OnlineStockSpan](Topics/Stack/OnlineStockSpan) | Medium |
 
 ## String
 | Problem | Difficulty |
