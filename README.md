@@ -245,3 +245,10 @@
 | ------- | ---------- |
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
+
+## Hash Table
+
+| Problem | Difficulty |
+| :--- | :--- |
+| [2423 - RemoveLetterToEqualizeFrequency](Topics/HashTable/RemoveLetterToEqualizeFrequency) | Easy |
+
