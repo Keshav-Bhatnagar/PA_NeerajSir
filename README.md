@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-118-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-119-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -172,6 +172,7 @@
 | [3280 - ConvertDatetoBinary](Topics/Math/ConvertDatetoBinary) | Easy |
 | [CountDigitAppearances](Topics/Math/CountDigitAppearances) | Medium |
 | [CountPartitionswithEvenSumDifference](Topics/Math/CountPartitionswithEvenSumDifference) | Easy |
+| [1688 - CountofMatchesinTournament](Topics/Math/CountofMatchesinTournament) | Easy |
 | [2520 - CounttheDigitsThatDivideaNumber](Topics/Math/CounttheDigitsThatDivideaNumber) | Easy |
 | [2894 - DivisibleandNondivisibleSumsDifference](Topics/Math/DivisibleandNondivisibleSumsDifference) | Easy |
 | [3516 - FindClosestPerson](Topics/Math/FindClosestPerson) | Easy |
@@ -184,7 +185,6 @@
 | [0495 - TeemoAttacking](Topics/Math/TeemoAttacking) | Easy |
 | [1637 - WidestVerticalAreaBetweenTwoPointsContainingNoPoints](Topics/Math/WidestVerticalAreaBetweenTwoPointsContainingNoPoints) | Easy |
 | [1486 - XOROperationinanArray](Topics/Math/XOROperationinanArray) | Easy |
-| [1688 - CountofMatchesinTournament](Topics/Math/CountofMatchesinTournament) | Easy |
 
 ## Queue
 | Problem | Difficulty |
