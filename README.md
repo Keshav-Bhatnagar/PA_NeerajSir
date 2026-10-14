@@ -189,6 +189,7 @@
 | [0495 - TeemoAttacking](Topics/Math/TeemoAttacking) | Easy |
 | [1637 - WidestVerticalAreaBetweenTwoPointsContainingNoPoints](Topics/Math/WidestVerticalAreaBetweenTwoPointsContainingNoPoints) | Easy |
 | [1486 - XOROperationinanArray](Topics/Math/XOROperationinanArray) | Easy |
+| [3723 - MaximizeSumofSquaresofDigits](Topics/Math/MaximizeSumofSquaresofDigits) | Medium |
 
 ## Queue
 | Problem | Difficulty |
