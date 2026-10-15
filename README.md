@@ -80,6 +80,7 @@
 | [2073 - TimeNeededtoBuyTickets](Topics/Array/TimeNeededtoBuyTickets) | Easy |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
+| [0347 - TopKFrequentElements](Topics/Array/TopKFrequentElements) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
