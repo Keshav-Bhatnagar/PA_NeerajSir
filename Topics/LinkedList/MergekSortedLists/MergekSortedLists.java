@@ -8,26 +8,26 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-
-        ArrayList<Integer> arr = new ArrayList<>();
-        for (ListNode list : lists) {
-            while (list != null) {
-                arr.add(list.val);
-                list = list.next;
-            }
+       PriorityQueue<ListNode>pq = new  PriorityQueue<>(
+        (a,b)->Integer.compare(a.val,b.val)
+       );
+       for(ListNode node : lists){
+        if(node!=null){
+            pq.offer(node);
         }
-        Collections.sort(arr);
-        ListNode dummy = new ListNode(0);
-        ListNode temp = dummy;
-
-        for (int value : arr) {
-            temp.next = new ListNode(value);
-            temp = temp.next;
+       }
+       ListNode dummy = new ListNode(0);
+       ListNode tail = dummy;
+       while(!pq.isEmpty()){
+        ListNode s =pq.poll();
+        tail.next = s;
+        tail = tail.next;
+        if(s.next!=null){
+            pq.offer(s.next);
         }
-
-        return dummy.next;
+       }
+       return dummy.next;
     }
 }
