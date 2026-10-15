@@ -79,6 +79,7 @@
 | [2073 - TimeNeededtoBuyTickets](Topics/Array/TimeNeededtoBuyTickets) | Easy |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
+| [0215 - KthLargestElementinanArray](Topics/Array/KthLargestElementinanArray) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
