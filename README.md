@@ -82,6 +82,7 @@
 | [0347 - TopKFrequentElements](Topics/Array/TopKFrequentElements) | Medium |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
+| [3194 - MinimumAverageofSmallestandLargestElements](Topics/Array/MinimumAverageofSmallestandLargestElements) | Easy |
 
 ## Arrays
 | Problem | Difficulty |
