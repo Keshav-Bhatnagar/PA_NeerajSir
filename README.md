@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-134-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-135-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -60,6 +60,7 @@
 | [2942 - FindWordsContainingCharacter](Topics/Array/FindWordsContainingCharacter) | Easy |
 | [3162 - FindtheNumberofGoodPairsI](Topics/Array/FindtheNumberofGoodPairsI) | Easy |
 | [1823 - FindtheWinneroftheCircularGame](Topics/Array/FindtheWinneroftheCircularGame) | Medium |
+| [0198 - HouseRobber](Topics/Array/HouseRobber) | Medium |
 | [1431 - KidsWithTheGreatestNumberOfCandies](Topics/Array/KidsWithTheGreatestNumberOfCandies) | Easy |
 | [0215 - KthLargestElementinanArray](Topics/Array/KthLargestElementinanArray) | Medium |
 | [2373 - LargestLocalValuesinaMatrix](Topics/Array/LargestLocalValuesinaMatrix) | Easy |
@@ -84,7 +85,6 @@
 | [0347 - TopKFrequentElements](Topics/Array/TopKFrequentElements) | Medium |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
-| [0198 - HouseRobber](Topics/Array/HouseRobber) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
