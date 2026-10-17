@@ -243,6 +243,7 @@
 | Problem | Difficulty |
 | ------- | ---------- |
 | [0938 - RangeSumofBST](Topics/Tree/RangeSumofBST) | Easy |
+| [2415 - ReverseOddLevelsofBinaryTree](Topics/Tree/ReverseOddLevelsofBinaryTree) | Medium |
 
 ## TwoPointers
 | Problem | Difficulty |
