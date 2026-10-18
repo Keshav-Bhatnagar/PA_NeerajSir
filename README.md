@@ -271,4 +271,5 @@
 | Problem | Difficulty |
 | :--- | :--- |
 | [0707 - DesignLinkedList](Topics/LinkedList/DesignLinkedList) | Medium |
+| [2974 - MinimumNumberGame](Topics/Array/MinimumNumberGame) | Easy |
 
