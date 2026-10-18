@@ -1,18 +1,16 @@
 class Solution {
     public int[] numberGame(int[] nums) {
-        Arrays.sort(nums);
-        IO.print(Arrays.toString(nums));
-        int count = 0;
-        int[] arr = new int[nums.length];
-        for (int i = 0; i < nums.length - 1; i++) {
-            if (count % 2 == 0)
-                arr[i] = nums[i + 1];
-            else
-                arr[i] = nums[i - 1];
-            count++;
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        for (int num : nums) {
+            pq.add(num);
         }
-        arr[nums.length-1]=nums[nums.length-2];
-
-        return arr;
+        int i = 0;
+        while (!pq.isEmpty()) {
+            int y = pq.poll();
+            int x = pq.poll();
+            nums[i++] = x;
+            nums[i++] = y;
+        }
+        return nums;
     }
 }
