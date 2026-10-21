@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-141-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-142-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -64,6 +64,7 @@
 | [1431 - KidsWithTheGreatestNumberOfCandies](Topics/Array/KidsWithTheGreatestNumberOfCandies) | Easy |
 | [0215 - KthLargestElementinanArray](Topics/Array/KthLargestElementinanArray) | Medium |
 | [2373 - LargestLocalValuesinaMatrix](Topics/Array/LargestLocalValuesinaMatrix) | Easy |
+| [0812 - LargestTriangleArea](Topics/Array/LargestTriangleArea) | Easy |
 | [0807 - MaxIncreasetoKeepCitySkyline](Topics/Array/MaxIncreasetoKeepCitySkyline) | Medium |
 | [3727 - MaximumAlternatingSumofSquares](Topics/Array/MaximumAlternatingSumofSquares) | Medium |
 | [0164 - MaximumGap](Topics/Array/MaximumGap) | Medium |
@@ -87,7 +88,6 @@
 | [0347 - TopKFrequentElements](Topics/Array/TopKFrequentElements) | Medium |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
-| [0812 - LargestTriangleArea](Topics/Array/LargestTriangleArea) | Easy |
 
 ## Arrays
 | Problem | Difficulty |
