@@ -248,6 +248,7 @@
 | [1221 - SplitaStringinBalancedStrings](Topics/String/SplitaStringinBalancedStrings) | Easy |
 | [1415 - ThekthLexicographicalStringofAllHappyStringsofLengthn](Topics/String/ThekthLexicographicalStringofAllHappyStringsofLengthn) | Medium |
 | [0678 - ValidParenthesisString](Topics/String/ValidParenthesisString) | Medium |
+| [3863 - MinimumOperationstoSortaString](Topics/String/MinimumOperationstoSortaString) | Medium |
 
 ## Tree
 | Problem | Difficulty |
