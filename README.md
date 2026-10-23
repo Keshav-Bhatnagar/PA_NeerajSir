@@ -231,6 +231,7 @@
 | [0901 - OnlineStockSpan](Topics/Stack/OnlineStockSpan) | Medium |
 | [0071 - SimplifyPath](Topics/Stack/SimplifyPath) | Medium |
 | [ValidParentheses](Topics/Stack/ValidParentheses) | Easy |
+| [0094 - BinaryTreeInorderTraversal](Topics/Stack/BinaryTreeInorderTraversal) | Easy |
 
 ## String
 | Problem | Difficulty |
