@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-145-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-146-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -221,6 +221,7 @@
 | Problem | Difficulty |
 | ------- | ---------- |
 | [0735 - AsteroidCollision](Topics/Stack/AsteroidCollision) | Medium |
+| [0094 - BinaryTreeInorderTraversal](Topics/Stack/BinaryTreeInorderTraversal) | Easy |
 | [0144 - BinaryTreePreorderTraversal](Topics/Stack/BinaryTreePreorderTraversal) | Easy |
 | [0739 - DailyTemperatures](Topics/Stack/DailyTemperatures) | Medium |
 | [0394 - DecodeString](Topics/Stack/DecodeString) | Medium |
@@ -231,7 +232,6 @@
 | [0901 - OnlineStockSpan](Topics/Stack/OnlineStockSpan) | Medium |
 | [0071 - SimplifyPath](Topics/Stack/SimplifyPath) | Medium |
 | [ValidParentheses](Topics/Stack/ValidParentheses) | Easy |
-| [0094 - BinaryTreeInorderTraversal](Topics/Stack/BinaryTreeInorderTraversal) | Easy |
 
 ## String
 | Problem | Difficulty |
