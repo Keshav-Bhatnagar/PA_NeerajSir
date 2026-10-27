@@ -265,6 +265,7 @@
 | [0938 - RangeSumofBST](Topics/Tree/RangeSumofBST) | Easy |
 | [2415 - ReverseOddLevelsofBinaryTree](Topics/Tree/ReverseOddLevelsofBinaryTree) | Medium |
 | [ZigZagTransversal](Topics/Tree/ZigZagTransversal) | Medium |
+| [1315 - SumofNodeswithEvenValuedGrandparent](Topics/Tree/SumofNodeswithEvenValuedGrandparent) | Medium |
 
 ## TwoPointers
 | Problem | Difficulty |
