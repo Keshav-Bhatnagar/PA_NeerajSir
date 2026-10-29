@@ -258,6 +258,7 @@
 | [1221 - SplitaStringinBalancedStrings](Topics/String/SplitaStringinBalancedStrings) | Easy |
 | [1415 - ThekthLexicographicalStringofAllHappyStringsofLengthn](Topics/String/ThekthLexicographicalStringofAllHappyStringsofLengthn) | Medium |
 | [0678 - ValidParenthesisString](Topics/String/ValidParenthesisString) | Medium |
+| [0520 - DetectCapital](Topics/String/DetectCapital) | Easy |
 
 ## Tree
 | Problem | Difficulty |
