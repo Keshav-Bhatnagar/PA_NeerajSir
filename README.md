@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-156-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-157-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -243,6 +243,7 @@
 ## String
 | Problem | Difficulty |
 | ------- | ---------- |
+| [0520 - DetectCapital](Topics/String/DetectCapital) | Easy |
 | [0649 - Dota2Senate](Topics/String/Dota2Senate) | Medium |
 | [GenerateBinaryStringsWithoutAdjacentZeros](Topics/String/GenerateBinaryStringsWithoutAdjacentZeros) | Medium |
 | [1678 - GoalParserInterpretation](Topics/String/GoalParserInterpretation) | Easy |
@@ -258,7 +259,6 @@
 | [1221 - SplitaStringinBalancedStrings](Topics/String/SplitaStringinBalancedStrings) | Easy |
 | [1415 - ThekthLexicographicalStringofAllHappyStringsofLengthn](Topics/String/ThekthLexicographicalStringofAllHappyStringsofLengthn) | Medium |
 | [0678 - ValidParenthesisString](Topics/String/ValidParenthesisString) | Medium |
-| [0520 - DetectCapital](Topics/String/DetectCapital) | Easy |
 
 ## Tree
 | Problem | Difficulty |
