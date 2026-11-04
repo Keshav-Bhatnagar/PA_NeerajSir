@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-157-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-158-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -187,6 +187,7 @@
 | Problem | Difficulty |
 | ------- | ---------- |
 | [2235 - AddTwoIntegers](Topics/Math/AddTwoIntegers) | Easy |
+| [0504 - Base7](Topics/Math/Base7) | Easy |
 | [CheckIfItIsaStraightLine](Topics/Math/CheckIfItIsaStraightLine) | Easy |
 | [ComputeAlternatingSum](Topics/Math/ComputeAlternatingSum) | Easy |
 | [0492 - ConstructtheRectangle](Topics/Math/ConstructtheRectangle) | Easy |
@@ -208,7 +209,6 @@
 | [0495 - TeemoAttacking](Topics/Math/TeemoAttacking) | Easy |
 | [1637 - WidestVerticalAreaBetweenTwoPointsContainingNoPoints](Topics/Math/WidestVerticalAreaBetweenTwoPointsContainingNoPoints) | Easy |
 | [1486 - XOROperationinanArray](Topics/Math/XOROperationinanArray) | Easy |
-| [0504 - Base7](Topics/Math/Base7) | Easy |
 
 ## Queue
 | Problem | Difficulty |
