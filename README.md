@@ -208,6 +208,7 @@
 | [0495 - TeemoAttacking](Topics/Math/TeemoAttacking) | Easy |
 | [1637 - WidestVerticalAreaBetweenTwoPointsContainingNoPoints](Topics/Math/WidestVerticalAreaBetweenTwoPointsContainingNoPoints) | Easy |
 | [1486 - XOROperationinanArray](Topics/Math/XOROperationinanArray) | Easy |
+| [0504 - Base7](Topics/Math/Base7) | Easy |
 
 ## Queue
 | Problem | Difficulty |
