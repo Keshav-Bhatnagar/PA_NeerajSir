@@ -91,6 +91,7 @@
 | [0347 - TopKFrequentElements](Topics/Array/TopKFrequentElements) | Medium |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
+| [3736 - MinimumMovestoEqualArrayElementsIII](Topics/Array/MinimumMovestoEqualArrayElementsIII) | Easy |
 
 ## Arrays
 | Problem | Difficulty |
