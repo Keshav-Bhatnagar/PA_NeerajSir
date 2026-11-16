@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-161-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-162-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -168,6 +168,7 @@
 | [3146 - PermutationDifferencebetweenTwoStrings](Topics/HashTable/PermutationDifferencebetweenTwoStrings) | Easy |
 | [2423 - RemoveLetterToEqualizeFrequency](Topics/HashTable/RemoveLetterToEqualizeFrequency) | Easy |
 | [3718 - SmallestMissingMultipleOfK](Topics/HashTable/SmallestMissingMultipleOfK) | Easy |
+| [0451 - SortCharactersByFrequency](Topics/HashTable/SortCharactersByFrequency) | Medium |
 | [2418 - SortThePeople](Topics/HashTable/SortThePeople) | Easy |
 | [TheTwoSneakyNumbersofDigitville](Topics/HashTable/TheTwoSneakyNumbersofDigitville) | Easy |
 
@@ -289,10 +290,3 @@
 | [3302 - FindTheLexicographicallySmallestValidSequence](Topics/Uncategorized/FindTheLexicographicallySmallestValidSequence) | Medium |
 | [1456 - MaximumNumberOfVowelsInASubstringOfGivenLength](Topics/Uncategorized/MaximumNumberOfVowelsInASubstringOfGivenLength) | Medium |
 | [4078 - ThreeFibonacciSum](Topics/Uncategorized/ThreeFibonacciSum) | Easy |
-
-## Hash Table
-
-| Problem | Difficulty |
-| :--- | :--- |
-| [0451 - SortCharactersByFrequency](Topics/HashTable/SortCharactersByFrequency) | Medium |
-
