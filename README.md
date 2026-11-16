@@ -98,6 +98,7 @@
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
 | [0001 - TwoSum](Topics/Array/TwoSum) | Easy |
+| [0268 - MissingNumber](Topics/Array/MissingNumber) | Easy |
 
 ## Arrays
 | Problem | Difficulty |
