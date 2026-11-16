@@ -96,6 +96,7 @@
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
 | [0001 - TwoSum](Topics/Array/TwoSum) | Easy |
+| [0053 - MaximumSubarray](Topics/Array/MaximumSubarray) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
