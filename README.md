@@ -92,6 +92,7 @@
 | [0347 - TopKFrequentElements](Topics/Array/TopKFrequentElements) | Medium |
 | [3467 - TransformArraybyParity](Topics/Array/TransformArraybyParity) | Easy |
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
+| [0049 - GroupAnagrams](Topics/Array/GroupAnagrams) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
