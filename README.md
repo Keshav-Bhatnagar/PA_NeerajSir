@@ -100,6 +100,7 @@
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
 | [0001 - TwoSum](Topics/Array/TwoSum) | Easy |
 | [0167 - TwoSumIIInputArrayIsSorted](Topics/Array/TwoSumIIInputArrayIsSorted) | Medium |
+| [0011 - ContainerWithMostWater](Topics/Array/ContainerWithMostWater) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
