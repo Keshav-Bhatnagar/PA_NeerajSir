@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-169-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-170-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -55,6 +55,7 @@
 | [0018 - 4Sum](Topics/Array/4Sum) | Medium |
 | [3925 - ConcatenateArrayWithReverse](Topics/Array/ConcatenateArrayWithReverse) | Easy |
 | [3875 - ConstructUniformParityArrayI](Topics/Array/ConstructUniformParityArrayI) | Easy |
+| [0011 - ContainerWithMostWater](Topics/Array/ContainerWithMostWater) | Medium |
 | [2610 - ConvertanArrayIntoa2DArrayWithConditions](Topics/Array/ConvertanArrayIntoa2DArrayWithConditions) | Medium |
 | [1313 - DecompressRunLengthEncodedList](Topics/Array/DecompressRunLengthEncodedList) | Easy |
 | [0622 - DesignCircularQueue](Topics/Array/DesignCircularQueue) | Medium |
@@ -100,7 +101,6 @@
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
 | [0001 - TwoSum](Topics/Array/TwoSum) | Easy |
 | [0167 - TwoSumIIInputArrayIsSorted](Topics/Array/TwoSumIIInputArrayIsSorted) | Medium |
-| [0011 - ContainerWithMostWater](Topics/Array/ContainerWithMostWater) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
