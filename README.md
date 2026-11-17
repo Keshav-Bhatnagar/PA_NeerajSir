@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-171-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-172-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -70,6 +70,7 @@
 | [0215 - KthLargestElementinanArray](Topics/Array/KthLargestElementinanArray) | Medium |
 | [2373 - LargestLocalValuesinaMatrix](Topics/Array/LargestLocalValuesinaMatrix) | Easy |
 | [0812 - LargestTriangleArea](Topics/Array/LargestTriangleArea) | Easy |
+| [0128 - LongestConsecutiveSequence](Topics/Array/LongestConsecutiveSequence) | Medium |
 | [0845 - LongestMountaininArray](Topics/Array/LongestMountaininArray) | Medium |
 | [0807 - MaxIncreasetoKeepCitySkyline](Topics/Array/MaxIncreasetoKeepCitySkyline) | Medium |
 | [3727 - MaximumAlternatingSumofSquares](Topics/Array/MaximumAlternatingSumofSquares) | Medium |
@@ -102,7 +103,6 @@
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
 | [0001 - TwoSum](Topics/Array/TwoSum) | Easy |
 | [0167 - TwoSumIIInputArrayIsSorted](Topics/Array/TwoSumIIInputArrayIsSorted) | Medium |
-| [0128 - LongestConsecutiveSequence](Topics/Array/LongestConsecutiveSequence) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
