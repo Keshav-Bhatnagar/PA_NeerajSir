@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-172-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-173-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -90,6 +90,7 @@
 | [0026 - RemoveDuplicatesfromSortedArray](Topics/Array/RemoveDuplicatesfromSortedArray) | Easy |
 | [3668 - RestoreFinishingOrder](Topics/Array/RestoreFinishingOrder) | Easy |
 | [0950 - RevealCardsInIncreasingOrder](Topics/Array/RevealCardsInIncreasingOrder) | Medium |
+| [0048 - RotateImage](Topics/Array/RotateImage) | Medium |
 | [2553 - SeparatetheDigitsinanArray](Topics/Array/SeparatetheDigitsinanArray) | Easy |
 | [1260 - Shift2DGrid](Topics/Array/Shift2DGrid) | Easy |
 | [2545 - SorttheStudentsbyTheirKthScore](Topics/Array/SorttheStudentsbyTheirKthScore) | Medium |
@@ -103,7 +104,6 @@
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
 | [0001 - TwoSum](Topics/Array/TwoSum) | Easy |
 | [0167 - TwoSumIIInputArrayIsSorted](Topics/Array/TwoSumIIInputArrayIsSorted) | Medium |
-| [0048 - RotateImage](Topics/Array/RotateImage) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
