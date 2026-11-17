@@ -103,6 +103,7 @@
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
 | [0001 - TwoSum](Topics/Array/TwoSum) | Easy |
 | [0167 - TwoSumIIInputArrayIsSorted](Topics/Array/TwoSumIIInputArrayIsSorted) | Medium |
+| [0048 - RotateImage](Topics/Array/RotateImage) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
