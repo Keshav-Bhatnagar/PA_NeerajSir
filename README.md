@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-176-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-177-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -99,6 +99,7 @@
 | [0054 - SpiralMatrix](Topics/Array/SpiralMatrix) | Medium |
 | [0560 - SubarraySumEqualsK](Topics/Array/SubarraySumEqualsK) | Medium |
 | [2913 - SubarraysDistinctElementSumofSquaresI](Topics/Array/SubarraysDistinctElementSumofSquaresI) | Easy |
+| [0811 - SubdomainVisitCount](Topics/Array/SubdomainVisitCount) | Medium |
 | [1476 - SubrectangleQueries](Topics/Array/SubrectangleQueries) | Medium |
 | [2778 - SumofSquaresofSpecialElements](Topics/Array/SumofSquaresofSpecialElements) | Easy |
 | [2073 - TimeNeededtoBuyTickets](Topics/Array/TimeNeededtoBuyTickets) | Easy |
@@ -107,7 +108,6 @@
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
 | [0001 - TwoSum](Topics/Array/TwoSum) | Easy |
 | [0167 - TwoSumIIInputArrayIsSorted](Topics/Array/TwoSumIIInputArrayIsSorted) | Medium |
-| [0811 - SubdomainVisitCount](Topics/Array/SubdomainVisitCount) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
