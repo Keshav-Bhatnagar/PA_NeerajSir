@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-175-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-176-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -97,6 +97,7 @@
 | [1260 - Shift2DGrid](Topics/Array/Shift2DGrid) | Easy |
 | [2545 - SorttheStudentsbyTheirKthScore](Topics/Array/SorttheStudentsbyTheirKthScore) | Medium |
 | [0054 - SpiralMatrix](Topics/Array/SpiralMatrix) | Medium |
+| [0560 - SubarraySumEqualsK](Topics/Array/SubarraySumEqualsK) | Medium |
 | [2913 - SubarraysDistinctElementSumofSquaresI](Topics/Array/SubarraysDistinctElementSumofSquaresI) | Easy |
 | [1476 - SubrectangleQueries](Topics/Array/SubrectangleQueries) | Medium |
 | [2778 - SumofSquaresofSpecialElements](Topics/Array/SumofSquaresofSpecialElements) | Easy |
@@ -106,7 +107,6 @@
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
 | [0001 - TwoSum](Topics/Array/TwoSum) | Easy |
 | [0167 - TwoSumIIInputArrayIsSorted](Topics/Array/TwoSumIIInputArrayIsSorted) | Medium |
-| [0560 - SubarraySumEqualsK](Topics/Array/SubarraySumEqualsK) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
