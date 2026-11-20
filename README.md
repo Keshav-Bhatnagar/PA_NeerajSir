@@ -108,6 +108,7 @@
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
 | [0001 - TwoSum](Topics/Array/TwoSum) | Easy |
 | [0167 - TwoSumIIInputArrayIsSorted](Topics/Array/TwoSumIIInputArrayIsSorted) | Medium |
+| [0152 - MaximumProductSubarray](Topics/Array/MaximumProductSubarray) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
