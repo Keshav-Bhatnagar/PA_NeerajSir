@@ -109,6 +109,7 @@
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
 | [0001 - TwoSum](Topics/Array/TwoSum) | Easy |
 | [0167 - TwoSumIIInputArrayIsSorted](Topics/Array/TwoSumIIInputArrayIsSorted) | Medium |
+| [0994 - RottingOranges](Topics/Array/RottingOranges) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
