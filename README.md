@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-182-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-183-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -88,6 +88,7 @@
 | [0268 - MissingNumber](Topics/Array/MissingNumber) | Easy |
 | [2125 - NumberofLaserBeamsinaBank](Topics/Array/NumberofLaserBeamsinaBank) | Medium |
 | [0118 - PascalsTriangle](Topics/Array/PascalsTriangle) | Easy |
+| [0046 - Permutations](Topics/Array/Permutations) | Medium |
 | [1828 - QueriesonNumberofPointsInsideaCircle](Topics/Array/QueriesonNumberofPointsInsideaCircle) | Medium |
 | [0506 - RelativeRanks](Topics/Array/RelativeRanks) | Easy |
 | [0026 - RemoveDuplicatesfromSortedArray](Topics/Array/RemoveDuplicatesfromSortedArray) | Easy |
@@ -110,7 +111,6 @@
 | [1816 - TruncateSentence](Topics/Array/TruncateSentence) | Easy |
 | [0001 - TwoSum](Topics/Array/TwoSum) | Easy |
 | [0167 - TwoSumIIInputArrayIsSorted](Topics/Array/TwoSumIIInputArrayIsSorted) | Medium |
-| [0046 - Permutations](Topics/Array/Permutations) | Medium |
 
 ## Arrays
 | Problem | Difficulty |
