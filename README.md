@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-184-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-185-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -292,6 +292,7 @@
 ## Tree
 | Problem | Difficulty |
 | ------- | ---------- |
+| [0102 - BinaryTreeLevelOrderTraversal](Topics/Tree/BinaryTreeLevelOrderTraversal) | Medium |
 | [0156 - BinaryTreeUpsideDown](Topics/Tree/BinaryTreeUpsideDown) | Medium |
 | [1302 - DeepestLeavesSum](Topics/Tree/DeepestLeavesSum) | Medium |
 | [MaxLengthSUm](Topics/Tree/MaxLengthSUm) | Medium |
@@ -299,7 +300,6 @@
 | [2415 - ReverseOddLevelsofBinaryTree](Topics/Tree/ReverseOddLevelsofBinaryTree) | Medium |
 | [1315 - SumofNodeswithEvenValuedGrandparent](Topics/Tree/SumofNodeswithEvenValuedGrandparent) | Medium |
 | [ZigZagTransversal](Topics/Tree/ZigZagTransversal) | Medium |
-| [0102 - BinaryTreeLevelOrderTraversal](Topics/Tree/BinaryTreeLevelOrderTraversal) | Medium |
 
 ## TwoPointers
 | Problem | Difficulty |
