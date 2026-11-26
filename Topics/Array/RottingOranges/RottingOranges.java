@@ -1,35 +1,56 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        if(grid == null || grid.length == 0)
-            return -1;
-        int m=grid.length;
+        int m = grid.length;
         int n = grid[0].length;
-        int [][] time = new int[m][n];
-        for(int i=0;i<m;i++)Arrays.fill(time[i],Integer.MAX_VALUE);
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(grid[i][j]==2)dfs(grid,i,j,time,0);
-            }
-        }
-        int timerequired=0;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(grid[i][j]==1){
-                    if(time[i][j]==Integer.MAX_VALUE)return -1;
-                    timerequired=Math.max(timerequired,time[i][j]);
+        int mintime = 0;
+        Queue<int[]> q = new LinkedList<>();
+        int fresh = 0;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 2) {
+                    q.add(new int[] { i, j });
+                }
+                if (grid[i][j] == 1) {
+                    fresh++;
                 }
             }
         }
-        return timerequired;
+        return bfs(grid, q, fresh, mintime);
     }
-    public void dfs(int [][]grid,int i,int j,int[][]time,int currtime){
-        if(i<0 || j<0 || i>=grid.length || j>=grid[0].length || currtime>=time[i][j] || grid[i][j]==0  ) return ;
 
-        time[i][j] = currtime;
+    int bfs(int[][] grid, Queue<int[]> q, int fresh, int mintime) {
+        int m = grid.length;
+        int n = grid[0].length;
+        while (!q.isEmpty() && fresh > 0) {
+            int size = q.size();
+            for (int k = 0; k < size; k++) {
+                int[] curr = q.poll();
+                int i = curr[0];
+                int j = curr[1];
+                if (i + 1 < m && grid[i + 1][j] == 1) {
+                    grid[i + 1][j] = 2;
+                    fresh--;
+                    q.add(new int[] { i + 1, j });
+                }
+                if (i - 1 >= 0 && grid[i - 1][j] == 1) {
+                    grid[i - 1][j] = 2;
+                    fresh--;
+                    q.add(new int[] { i - 1, j });
+                }
+                if (j + 1 < n && grid[i][j + 1] == 1) {
+                    grid[i][j + 1] = 2;
+                    fresh--;
+                    q.add(new int[] { i, j + 1 });
+                }
+                if (j - 1 >= 0 && grid[i][j - 1] == 1) {
+                    grid[i][j - 1] = 2;
+                    fresh--;
+                    q.add(new int[] { i, j - 1 });
+                }
+            }
+            mintime++;
+        }
 
-        dfs(grid,i+1,j,time,currtime+1);
-        dfs(grid,i-1,j,time,currtime+1);
-        dfs(grid,i,j+1,time,currtime+1);
-        dfs(grid,i,j-1,time,currtime+1);
+        return fresh == 0 ? mintime : -1;
     }
 }
