@@ -3,7 +3,7 @@
   <br/><br/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="80" alt="LeetCode Logo"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-185-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
+  <img src="https://img.shields.io/badge/Problems%20Solved-186-blue?style=for-the-badge&logo=leetcode" alt="Problems Solved">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br/>
@@ -225,6 +225,7 @@
 | [1688 - CountofMatchesinTournament](Topics/Math/CountofMatchesinTournament) | Easy |
 | [2520 - CounttheDigitsThatDivideaNumber](Topics/Math/CounttheDigitsThatDivideaNumber) | Easy |
 | [2894 - DivisibleandNondivisibleSumsDifference](Topics/Math/DivisibleandNondivisibleSumsDifference) | Easy |
+| [0509 - FibonacciNumber](Topics/Math/FibonacciNumber) | Easy |
 | [3516 - FindClosestPerson](Topics/Math/FindClosestPerson) | Easy |
 | [FindMinimumOperationstoMakeAllElementsDivisiblebyThree](Topics/Math/FindMinimumOperationstoMakeAllElementsDivisiblebyThree) | Easy |
 | [3723 - MaximizeSumofSquaresofDigits](Topics/Math/MaximizeSumofSquaresofDigits) | Medium |
@@ -237,7 +238,6 @@
 | [0495 - TeemoAttacking](Topics/Math/TeemoAttacking) | Easy |
 | [1637 - WidestVerticalAreaBetweenTwoPointsContainingNoPoints](Topics/Math/WidestVerticalAreaBetweenTwoPointsContainingNoPoints) | Easy |
 | [1486 - XOROperationinanArray](Topics/Math/XOROperationinanArray) | Easy |
-| [0509 - FibonacciNumber](Topics/Math/FibonacciNumber) | Easy |
 
 ## Queue
 | Problem | Difficulty |
