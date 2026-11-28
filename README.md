@@ -239,6 +239,7 @@
 | [0495 - TeemoAttacking](Topics/Math/TeemoAttacking) | Easy |
 | [1637 - WidestVerticalAreaBetweenTwoPointsContainingNoPoints](Topics/Math/WidestVerticalAreaBetweenTwoPointsContainingNoPoints) | Easy |
 | [1486 - XOROperationinanArray](Topics/Math/XOROperationinanArray) | Easy |
+| [0556 - NextGreaterElementIII](Topics/Math/NextGreaterElementIII) | Medium |
 
 ## Queue
 | Problem | Difficulty |
